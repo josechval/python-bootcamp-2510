@@ -1,0 +1,1001 @@
+fecha_venta,id_producto,nombre_producto,categoria,precio_unitario,cantidad,total_venta,metodo_pago,region
+2025-01-10 07:07:52.304245,158004,Flan de Caramelo,Postres,5300.0,1,5300.0,Tarjeta Débito,Bogotá D.C.
+2025-01-10 08:03:11.385105,246065,Macchiato,Café Caliente,4500.0,2,9000.0,Efectivo,Meta
+2025-01-10 08:10:25.753214,461066,Huevos Pericos,Desayunos,9000.0,2,18000.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-10 08:13:44.535789,677423,Granizado de Café,Café Frío,6900.0,3,20700.0,Tarjeta Débito,Cundinamarca
+2025-01-10 08:24:19.725728,942940,Café Campesino,Café Caliente,2100.0,2,4200.0,Tarjeta Débito,Meta
+2025-01-10 08:25:21.452217,690065,Torta de Café,Postres,6100.0,2,12200.0,Daviplata,Bogotá D.C.
+2025-01-10 08:39:23.309532,175281,Croissant de Mantequilla,Panadería,4100.0,1,4100.0,Efectivo,Meta
+2025-01-10 08:46:11.520593,792564,Pan de Bono Fresco,Panadería,3400.0,2,6800.0,Nequi,Bogotá D.C.
+2025-01-10 08:49:19.044699,909474,Tres Leches Tradicional,Postres,7900.0,2,15800.0,Efectivo,Valle del Cauca
+2025-01-10 08:52:37.999993,833080,Té Chai,Bebidas,5900.0,3,17700.0,Tarjeta Débito,Boyacá
+2025-01-10 09:08:50.999947,963560,Tamal Tolimense,Desayunos,10700.0,4,42800.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-10 09:11:59.197317,315733,Latte Helado,Café Frío,8200.0,1,8200.0,Daviplata,Bogotá D.C.
+2025-01-10 09:20:23.753578,752755,Espresso Doble,Café Caliente,2800.0,2,5600.0,Tarjeta Débito,Bogotá D.C.
+2025-01-10 09:57:33.064136,871680,Milo Frío,Bebidas,5900.0,1,5900.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-10 12:34:52.535823,89480,Croissant de Mantequilla,Panadería,4100.0,1,4100.0,Tarjeta Débito,Bogotá D.C.
+2025-01-10 12:44:54.513515,843114,Capuchino Especial,Café Caliente,6900.0,4,27600.0,Nequi,Bogotá D.C.
+2025-01-10 13:10:44.745273,805353,Pan de Bono Fresco,Panadería,2600.0,3,7800.0,Tarjeta Crédito,Cundinamarca
+2025-01-10 13:18:53.790111,633929,Té Chai,Bebidas,5800.0,1,5800.0,Efectivo,Bogotá D.C.
+2025-01-10 13:31:50.558259,67065,Granizado de Café,Café Frío,7200.0,2,14400.0,Daviplata,Boyacá
+2025-01-10 13:38:00.227201,531981,Cold Brew Clásico,Café Frío,5600.0,2,11200.0,Daviplata,Cundinamarca
+2025-01-10 13:51:49.766256,896089,Flan de Caramelo,Postres,5200.0,2,10400.0,Efectivo,Bogotá D.C.
+2025-01-10 13:53:04.495104,488353,Brownie con Helado,Postres,5800.0,1,5800.0,Efectivo,Bogotá D.C.
+2025-01-10 13:55:36.120402,111858,Capuchino Especial,Café Caliente,5900.0,3,17700.0,Efectivo,Valle del Cauca
+2025-01-10 16:21:06.389781,459737,Desayuno Ejecutivo,Desayunos,17500.0,2,35000.0,Daviplata,Meta
+2025-01-10 17:20:31.879032,309823,Aguapanela con Queso,Bebidas,2700.0,1,2700.0,Nequi,Bogotá D.C.
+2025-01-10 17:25:21.345918,99680,Tamal Tolimense,Desayunos,11900.0,1,11900.0,Tarjeta Crédito,Valle del Cauca
+2025-01-10 17:41:17.506752,781078,Cheesecake de Café,Postres,8400.0,4,33600.0,Efectivo,Bogotá D.C.
+2025-01-10 17:43:38.404483,132377,Espresso Doble,Café Caliente,3300.0,1,3300.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-11 07:15:08.103072,13163,Pan de Bono Fresco,Panadería,3500.0,1,3500.0,Nequi,Cundinamarca
+2025-01-11 07:49:41.628204,695695,Pan de Bono Fresco,Panadería,3100.0,1,3100.0,Efectivo,Bogotá D.C.
+2025-01-11 08:00:28.981280,382748,Jugo Natural de Temporada,Bebidas,5900.0,2,11800.0,Efectivo,Bogotá D.C.
+2025-01-11 08:05:47.297074,57130,Cold Brew Clásico,Café Frío,6500.0,1,6500.0,Tarjeta Débito,Santander
+2025-01-11 08:06:56.000920,337093,Changua Bogotana,Desayunos,8700.0,2,17400.0,Tarjeta Débito,Cundinamarca
+2025-01-11 08:14:27.933070,489255,Tiramisú,Postres,8800.0,1,8800.0,Tarjeta Débito,Bogotá D.C.
+2025-01-11 08:20:12.583145,378343,Almojábana Tradicional,Panadería,3300.0,2,6600.0,Tarjeta Débito,Bogotá D.C.
+2025-01-11 08:27:34.652172,266097,Café Helado,Café Frío,6900.0,2,13800.0,Nequi,Antioquia
+2025-01-11 08:39:28.429039,511510,Pastel de Pollo,Panadería,4500.0,1,4500.0,Efectivo,Bogotá D.C.
+2025-01-11 08:56:14.884008,832430,Pan de Yuca,Panadería,3100.0,1,3100.0,Efectivo,Boyacá
+2025-01-11 08:56:18.657447,546292,Pan de Yuca,Panadería,3000.0,2,6000.0,Nequi,Antioquia
+2025-01-11 08:59:30.453872,492890,Croissant de Mantequilla,Panadería,4400.0,2,8800.0,Nequi,Bogotá D.C.
+2025-01-11 09:16:14.734208,557582,Té Chai,Bebidas,5600.0,1,5600.0,Daviplata,Cundinamarca
+2025-01-11 13:02:57.088768,481814,Empanada de Queso,Panadería,3300.0,3,9900.0,Efectivo,Valle del Cauca
+2025-01-11 13:12:28.126293,994310,Milo Frío,Bebidas,5500.0,1,5500.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-11 13:23:23.373018,91912,Café Campesino,Café Caliente,2000.0,3,6000.0,Efectivo,Bogotá D.C.
+2025-01-11 13:26:57.340005,245148,Aromática de Frutas,Bebidas,4700.0,2,9400.0,Tarjeta Débito,Bogotá D.C.
+2025-01-11 13:31:55.146444,605221,Aromática de Frutas,Bebidas,4000.0,2,8000.0,Daviplata,Bogotá D.C.
+2025-01-11 14:42:01.988213,111956,Pan de Chocolate,Panadería,3300.0,1,3300.0,Nequi,Antioquia
+2025-01-11 17:01:30.075951,736865,Calentado Paisa,Desayunos,13900.0,1,13900.0,Efectivo,Meta
+2025-01-11 17:16:12.875131,78811,Chocolate Santafereño,Bebidas,5300.0,1,5300.0,Tarjeta Crédito,Meta
+2025-01-11 17:16:13.828225,982271,Café con Leche,Café Caliente,3700.0,2,7400.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-11 17:16:45.076944,590624,Té Chai,Bebidas,5600.0,1,5600.0,Tarjeta Débito,Meta
+2025-01-11 17:17:09.137768,590477,Café Origen Quindío,Café Caliente,5500.0,2,11000.0,Efectivo,Cundinamarca
+2025-01-11 17:23:47.987754,718094,Café con Leche,Café Caliente,4500.0,2,9000.0,Efectivo,Tolima
+2025-01-11 17:27:34.540627,396399,Torta de Café,Postres,7400.0,1,7400.0,Tarjeta Débito,Meta
+2025-01-11 17:37:10.666065,716284,Latte Helado,Café Frío,6600.0,2,13200.0,Daviplata,Meta
+2025-01-11 17:37:52.880832,52266,Calentado Paisa,Desayunos,13500.0,4,54000.0,Tarjeta Débito,Bogotá D.C.
+2025-01-11 17:47:35.606843,619463,Tres Leches Tradicional,Postres,7500.0,1,7500.0,Tarjeta Débito,Bogotá D.C.
+2025-01-11 17:57:56.056989,130985,Flan de Caramelo,Postres,5500.0,4,22000.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-12 07:05:10.408430,386353,Flan de Caramelo,Postres,5600.0,3,16800.0,Tarjeta Débito,Cundinamarca
+2025-01-12 07:48:51.849155,354206,Almojábana Tradicional,Panadería,3100.0,1,3100.0,Tarjeta Débito,Cundinamarca
+2025-01-12 08:04:19.003829,172206,Desayuno Ejecutivo,Desayunos,16500.0,2,33000.0,Tarjeta Débito,Antioquia
+2025-01-12 08:06:49.487806,794437,Desayuno Ejecutivo,Desayunos,16600.0,2,33200.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-12 08:07:30.861097,83977,Brownie con Helado,Postres,6500.0,1,6500.0,Efectivo,Bogotá D.C.
+2025-01-12 08:09:07.381186,160763,Tres Leches Tradicional,Postres,6700.0,2,13400.0,Nequi,Antioquia
+2025-01-12 08:17:33.944930,452697,Calentado Paisa,Desayunos,12100.0,1,12100.0,Efectivo,Valle del Cauca
+2025-01-12 08:18:12.553361,757273,Café Helado,Café Frío,6000.0,1,6000.0,Tarjeta Débito,Boyacá
+2025-01-12 08:25:52.319491,876585,Cold Brew Clásico,Café Frío,6700.0,1,6700.0,Tarjeta Débito,Santander
+2025-01-12 08:40:09.869079,187898,Latte Helado,Café Frío,8200.0,4,32800.0,Nequi,Bogotá D.C.
+2025-01-12 08:50:25.350635,766353,Tinto Tradicional,Café Caliente,3400.0,1,3400.0,Daviplata,Bogotá D.C.
+2025-01-12 08:56:47.822313,132413,Aromática de Frutas,Bebidas,4400.0,4,17600.0,Daviplata,Boyacá
+2025-01-12 09:36:36.563377,458558,Changua Bogotana,Desayunos,7500.0,2,15000.0,Tarjeta Débito,Bogotá D.C.
+2025-01-12 09:57:34.655019,915817,Jugo Natural de Temporada,Bebidas,4700.0,1,4700.0,Nequi,Boyacá
+2025-01-12 13:17:36.634030,604448,Pan de Bono Fresco,Panadería,3200.0,5,16000.0,Tarjeta Débito,Cundinamarca
+2025-01-12 13:17:53.431014,529962,Huevos Pericos,Desayunos,9600.0,1,9600.0,Tarjeta Débito,Antioquia
+2025-01-12 13:19:20.743626,805196,Torta de Café,Postres,7500.0,1,7500.0,Efectivo,Bogotá D.C.
+2025-01-12 13:35:06.404894,428516,Café Origen Quindío,Café Caliente,5100.0,1,5100.0,Efectivo,Bogotá D.C.
+2025-01-12 13:39:15.554416,818941,Frappé Caramelo,Café Frío,7700.0,1,7700.0,Efectivo,Tolima
+2025-01-12 13:39:54.319340,376583,Macchiato,Café Caliente,5900.0,1,5900.0,Efectivo,Cundinamarca
+2025-01-12 13:55:43.396279,617136,Café con Leche,Café Caliente,4300.0,4,17200.0,Nequi,Bogotá D.C.
+2025-01-12 16:51:07.350101,866984,Pan de Bono Fresco,Panadería,2600.0,1,2600.0,Efectivo,Bogotá D.C.
+2025-01-12 17:06:56.276143,298106,Pan de Yuca,Panadería,3300.0,1,3300.0,Tarjeta Débito,Antioquia
+2025-01-12 17:07:15.833798,761362,Tamal Tolimense,Desayunos,11400.0,3,34200.0,Nequi,Tolima
+2025-01-12 17:09:47.742332,779546,Café Campesino,Café Caliente,2700.0,3,8100.0,Daviplata,Bogotá D.C.
+2025-01-12 17:29:22.445023,158668,Café Origen Quindío,Café Caliente,4500.0,3,13500.0,Daviplata,Valle del Cauca
+2025-01-12 17:31:16.691840,416186,Café Origen Quindío,Café Caliente,4600.0,1,4600.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-12 17:40:22.126643,852188,Malteada de Café,Café Frío,7900.0,4,31600.0,Tarjeta Débito,Bogotá D.C.
+2025-01-12 17:47:55.923276,821642,Tinto Tradicional,Café Caliente,3400.0,4,13600.0,Efectivo,Bogotá D.C.
+2025-01-12 17:53:13.829380,815668,Aromática de Frutas,Bebidas,4100.0,2,8200.0,Tarjeta Débito,Meta
+2025-01-12 17:55:52.824332,12450,Tamal Tolimense,Desayunos,10900.0,1,10900.0,Tarjeta Débito,Bogotá D.C.
+2025-01-12 17:56:03.194470,191264,Almojábana Tradicional,Panadería,3000.0,1,3000.0,Tarjeta Crédito,Meta
+2025-01-12 17:56:16.033165,859857,Macchiato,Café Caliente,5600.0,1,5600.0,Efectivo,Antioquia
+2025-01-12 18:34:24.013417,288092,Jugo Natural de Temporada,Bebidas,5800.0,1,5800.0,Tarjeta Crédito,Valle del Cauca
+2025-01-12 18:42:47.828961,752893,Café con Leche,Café Caliente,4200.0,2,8400.0,Nequi,Antioquia
+2025-01-13 07:54:30.864014,574304,Café Helado,Café Frío,7600.0,4,30400.0,Tarjeta Débito,Bogotá D.C.
+2025-01-13 07:58:57.473040,689904,Huevos Pericos,Desayunos,9300.0,2,18600.0,Tarjeta Crédito,Cundinamarca
+2025-01-13 08:10:39.936232,589140,Granizado de Café,Café Frío,6600.0,1,6600.0,Efectivo,Antioquia
+2025-01-13 08:13:07.701583,470968,Tamal Tolimense,Desayunos,9800.0,1,9800.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-13 08:31:06.137506,6871,Aromática de Frutas,Bebidas,4700.0,2,9400.0,Nequi,Meta
+2025-01-13 08:38:19.226325,736473,Cold Brew Clásico,Café Frío,7000.0,5,35000.0,Nequi,Cundinamarca
+2025-01-13 08:39:10.099016,830684,Pan de Chocolate,Panadería,3800.0,1,3800.0,Daviplata,Antioquia
+2025-01-13 08:44:31.761713,56682,Frappé Caramelo,Café Frío,8800.0,1,8800.0,Tarjeta Débito,Valle del Cauca
+2025-01-13 08:47:42.177607,982100,Frappé Caramelo,Café Frío,8800.0,2,17600.0,Efectivo,Santander
+2025-01-13 08:55:15.579969,406352,Capuchino Especial,Café Caliente,6800.0,1,6800.0,Efectivo,Bogotá D.C.
+2025-01-13 08:57:15.764619,215680,Brownie con Helado,Postres,5500.0,3,16500.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-13 09:33:07.710085,30153,Tres Leches Tradicional,Postres,6000.0,2,12000.0,Nequi,Antioquia
+2025-01-13 09:36:01.012467,832540,Latte Helado,Café Frío,8000.0,1,8000.0,Tarjeta Crédito,Meta
+2025-01-13 09:49:12.441565,464623,Jugo Natural de Temporada,Bebidas,5900.0,2,11800.0,Efectivo,Tolima
+2025-01-13 13:01:20.952286,524289,Tinto Tradicional,Café Caliente,3200.0,1,3200.0,Nequi,Bogotá D.C.
+2025-01-13 13:02:58.766452,373485,Tres Leches Tradicional,Postres,6200.0,2,12400.0,Tarjeta Crédito,Cundinamarca
+2025-01-13 13:03:34.141369,489264,Té Chai,Bebidas,5200.0,1,5200.0,Nequi,Santander
+2025-01-13 13:09:27.986212,652451,Espresso Doble,Café Caliente,3700.0,1,3700.0,Tarjeta Débito,Meta
+2025-01-13 13:10:13.679931,228625,Aromática de Frutas,Bebidas,4000.0,3,12000.0,Nequi,Valle del Cauca
+2025-01-13 13:19:44.408805,823833,Capuchino Especial,Café Caliente,5900.0,3,17700.0,Nequi,Meta
+2025-01-13 13:20:57.591806,24190,Changua Bogotana,Desayunos,7900.0,3,23700.0,Efectivo,Bogotá D.C.
+2025-01-13 13:22:33.429459,287484,Espresso Doble,Café Caliente,3300.0,3,9900.0,Tarjeta Débito,Bogotá D.C.
+2025-01-13 13:31:04.521962,559165,Almojábana Tradicional,Panadería,3200.0,3,9600.0,Nequi,Antioquia
+2025-01-13 13:36:52.935746,374837,Chocolate Santafereño,Bebidas,4800.0,3,14400.0,Daviplata,Bogotá D.C.
+2025-01-13 13:38:10.430044,198253,Milo Frío,Bebidas,5100.0,3,15300.0,Tarjeta Débito,Meta
+2025-01-13 13:43:04.168577,613044,Tinto Tradicional,Café Caliente,3300.0,1,3300.0,Efectivo,Valle del Cauca
+2025-01-13 13:45:26.694607,235542,Desayuno Ejecutivo,Desayunos,15600.0,3,46800.0,Tarjeta Débito,Bogotá D.C.
+2025-01-13 13:45:33.927301,502552,Macchiato,Café Caliente,4800.0,1,4800.0,Nequi,Bogotá D.C.
+2025-01-13 13:47:09.299407,759091,Aromática de Frutas,Bebidas,3800.0,1,3800.0,Efectivo,Bogotá D.C.
+2025-01-13 13:53:58.728930,540001,Tamal Tolimense,Desayunos,11500.0,1,11500.0,Efectivo,Meta
+2025-01-13 14:22:30.942577,296979,Capuchino Especial,Café Caliente,5600.0,2,11200.0,Tarjeta Débito,Bogotá D.C.
+2025-01-13 16:09:49.974484,565558,Café Origen Quindío,Café Caliente,5000.0,4,20000.0,Tarjeta Crédito,Boyacá
+2025-01-13 17:00:44.856575,897222,Jugo Natural de Temporada,Bebidas,6400.0,1,6400.0,Tarjeta Débito,Santander
+2025-01-13 17:16:54.315898,643108,Changua Bogotana,Desayunos,8900.0,3,26700.0,Tarjeta Crédito,Meta
+2025-01-13 17:19:39.963502,658993,Changua Bogotana,Desayunos,7900.0,1,7900.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-13 17:20:54.531767,678145,Aguapanela con Queso,Bebidas,2700.0,4,10800.0,Tarjeta Débito,Valle del Cauca
+2025-01-13 17:37:04.379399,923863,Huevos Pericos,Desayunos,8700.0,1,8700.0,Tarjeta Crédito,Antioquia
+2025-01-13 17:40:47.696848,30044,Aromática de Frutas,Bebidas,3600.0,3,10800.0,Daviplata,Meta
+2025-01-13 17:43:10.888961,976960,Frappé Caramelo,Café Frío,8100.0,1,8100.0,Efectivo,Meta
+2025-01-13 17:44:33.393210,879344,Café Helado,Café Frío,7700.0,1,7700.0,Tarjeta Débito,Bogotá D.C.
+2025-01-13 17:47:36.067876,264019,Cheesecake de Café,Postres,7500.0,3,22500.0,Efectivo,Cundinamarca
+2025-01-13 17:49:09.168102,690092,Pan de Chocolate,Panadería,3300.0,2,6600.0,Tarjeta Crédito,Cundinamarca
+2025-01-13 17:51:07.279160,241176,Chocolate Santafereño,Bebidas,5800.0,1,5800.0,Efectivo,Bogotá D.C.
+2025-01-13 17:53:20.273607,712361,Tamal Tolimense,Desayunos,10300.0,4,41200.0,Tarjeta Débito,Bogotá D.C.
+2025-01-13 18:59:16.150324,383086,Brownie con Helado,Postres,5800.0,2,11600.0,Efectivo,Tolima
+2025-01-14 07:23:53.102827,881595,Empanada de Queso,Panadería,2900.0,1,2900.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-14 07:24:03.309741,312758,Jugo Natural de Temporada,Bebidas,5100.0,1,5100.0,Efectivo,Cundinamarca
+2025-01-14 07:59:43.647329,708186,Desayuno Ejecutivo,Desayunos,17600.0,4,70400.0,Efectivo,Cundinamarca
+2025-01-14 08:01:18.277840,594076,Café Campesino,Café Caliente,2800.0,5,14000.0,Efectivo,Meta
+2025-01-14 08:04:47.297148,727414,Tinto Tradicional,Café Caliente,3200.0,4,12800.0,Efectivo,Bogotá D.C.
+2025-01-14 08:08:23.821837,513726,Empanada de Queso,Panadería,3100.0,1,3100.0,Efectivo,Meta
+2025-01-14 08:10:29.883112,906375,Pan de Bono Fresco,Panadería,2500.0,1,2500.0,Daviplata,Bogotá D.C.
+2025-01-14 08:11:17.115329,393074,Brownie con Helado,Postres,4900.0,1,4900.0,Efectivo,Antioquia
+2025-01-14 08:16:06.839282,279529,Calentado Paisa,Desayunos,13700.0,2,27400.0,Efectivo,Bogotá D.C.
+2025-01-14 08:20:53.824085,117089,Café con Leche,Café Caliente,4100.0,3,12300.0,Efectivo,Bogotá D.C.
+2025-01-14 08:25:32.746206,53775,Almojábana Tradicional,Panadería,3400.0,2,6800.0,Efectivo,Bogotá D.C.
+2025-01-14 08:26:59.200699,259243,Latte Helado,Café Frío,7000.0,1,7000.0,Daviplata,Cundinamarca
+2025-01-14 08:38:08.736212,465834,Tres Leches Tradicional,Postres,7800.0,2,15600.0,Efectivo,Valle del Cauca
+2025-01-14 08:41:32.313038,823990,Tamal Tolimense,Desayunos,10800.0,1,10800.0,Efectivo,Valle del Cauca
+2025-01-14 13:01:37.670992,9021,Granizado de Café,Café Frío,8200.0,1,8200.0,Tarjeta Crédito,Valle del Cauca
+2025-01-14 13:10:32.955042,465375,Brownie con Helado,Postres,4500.0,3,13500.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-14 13:15:26.984463,89489,Café Helado,Café Frío,6800.0,1,6800.0,Nequi,Bogotá D.C.
+2025-01-14 13:16:45.437936,680325,Espresso Doble,Café Caliente,3800.0,1,3800.0,Efectivo,Bogotá D.C.
+2025-01-14 13:16:47.860025,473743,Pan de Bono Fresco,Panadería,3000.0,1,3000.0,Tarjeta Débito,Boyacá
+2025-01-14 13:18:56.398806,27902,Malteada de Café,Café Frío,7500.0,5,37500.0,Tarjeta Crédito,Cundinamarca
+2025-01-14 13:23:37.019174,22269,Tres Leches Tradicional,Postres,7700.0,1,7700.0,Nequi,Antioquia
+2025-01-14 13:36:39.982392,248861,Jugo Natural de Temporada,Bebidas,6100.0,1,6100.0,Tarjeta Débito,Bogotá D.C.
+2025-01-14 13:41:00.447217,409585,Desayuno Ejecutivo,Desayunos,17200.0,2,34400.0,Tarjeta Débito,Tolima
+2025-01-14 13:52:06.767100,757710,Almojábana Tradicional,Panadería,3000.0,2,6000.0,Nequi,Valle del Cauca
+2025-01-14 16:57:13.549382,470989,Espresso Doble,Café Caliente,3200.0,2,6400.0,Tarjeta Crédito,Cundinamarca
+2025-01-14 17:04:34.789683,71174,Aromática de Frutas,Bebidas,3500.0,2,7000.0,Tarjeta Débito,Bogotá D.C.
+2025-01-14 17:14:15.626921,111682,Pan de Yuca,Panadería,2600.0,1,2600.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-14 17:18:36.527232,610139,Cold Brew Clásico,Café Frío,6000.0,1,6000.0,Tarjeta Débito,Antioquia
+2025-01-14 17:19:57.987864,927853,Torta de Café,Postres,6200.0,5,31000.0,Efectivo,Meta
+2025-01-14 17:29:24.255205,949732,Malteada de Café,Café Frío,8900.0,1,8900.0,Tarjeta Crédito,Meta
+2025-01-14 17:41:29.612266,764673,Croissant de Mantequilla,Panadería,3700.0,4,14800.0,Efectivo,Bogotá D.C.
+2025-01-14 17:51:01.883497,326515,Granizado de Café,Café Frío,6500.0,2,13000.0,Tarjeta Crédito,Cundinamarca
+2025-01-14 17:53:20.389856,666008,Pan de Chocolate,Panadería,3100.0,3,9300.0,Tarjeta Débito,Cundinamarca
+2025-01-14 17:54:25.814211,141335,Capuchino Especial,Café Caliente,6500.0,2,13000.0,Nequi,Meta
+2025-01-15 08:05:25.564522,513762,Cold Brew Clásico,Café Frío,6700.0,2,13400.0,Tarjeta Débito,Bogotá D.C.
+2025-01-15 08:05:52.763687,645539,Latte Helado,Café Frío,6800.0,1,6800.0,Daviplata,Valle del Cauca
+2025-01-15 08:08:48.997718,148318,Tamal Tolimense,Desayunos,9100.0,4,36400.0,Daviplata,Bogotá D.C.
+2025-01-15 08:10:04.181243,418318,Café Helado,Café Frío,7700.0,2,15400.0,Efectivo,Antioquia
+2025-01-15 08:13:55.272566,657335,Croissant de Mantequilla,Panadería,4100.0,2,8200.0,Nequi,Bogotá D.C.
+2025-01-15 08:18:02.252732,871160,Macchiato,Café Caliente,5900.0,1,5900.0,Nequi,Valle del Cauca
+2025-01-15 08:20:45.168188,442752,Chocolate Santafereño,Bebidas,5200.0,1,5200.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-15 08:27:03.460177,976299,Cheesecake de Café,Postres,7600.0,1,7600.0,Tarjeta Crédito,Valle del Cauca
+2025-01-15 08:38:58.392264,839003,Milo Frío,Bebidas,6400.0,1,6400.0,Nequi,Bogotá D.C.
+2025-01-15 08:40:14.513410,92266,Flan de Caramelo,Postres,5200.0,2,10400.0,Tarjeta Débito,Bogotá D.C.
+2025-01-15 08:41:57.804869,759739,Malteada de Café,Café Frío,8400.0,1,8400.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-15 08:48:05.745449,224752,Empanada de Queso,Panadería,3400.0,2,6800.0,Efectivo,Valle del Cauca
+2025-01-15 08:49:03.526376,25389,Changua Bogotana,Desayunos,7800.0,4,31200.0,Efectivo,Meta
+2025-01-15 12:36:46.074537,472941,Cold Brew Clásico,Café Frío,6500.0,3,19500.0,Nequi,Cundinamarca
+2025-01-15 13:05:14.519564,784649,Brownie con Helado,Postres,5200.0,3,15600.0,Tarjeta Débito,Bogotá D.C.
+2025-01-15 13:06:01.999119,404041,Tiramisú,Postres,7800.0,1,7800.0,Efectivo,Bogotá D.C.
+2025-01-15 13:11:37.245749,452997,Pan de Chocolate,Panadería,3400.0,1,3400.0,Efectivo,Valle del Cauca
+2025-01-15 13:13:48.513366,82850,Pastel de Pollo,Panadería,4700.0,1,4700.0,Tarjeta Débito,Bogotá D.C.
+2025-01-15 13:14:46.248623,347394,Almojábana Tradicional,Panadería,3100.0,4,12400.0,Efectivo,Antioquia
+2025-01-15 13:34:40.989403,794516,Pan de Bono Fresco,Panadería,3100.0,2,6200.0,Efectivo,Bogotá D.C.
+2025-01-15 13:37:19.504543,339699,Almojábana Tradicional,Panadería,3100.0,1,3100.0,Efectivo,Bogotá D.C.
+2025-01-15 13:45:26.875385,875076,Chocolate Santafereño,Bebidas,6200.0,5,31000.0,Tarjeta Débito,Bogotá D.C.
+2025-01-15 13:54:36.644881,868019,Granizado de Café,Café Frío,7300.0,3,21900.0,Nequi,Meta
+2025-01-15 14:37:29.762632,704037,Granizado de Café,Café Frío,7600.0,1,7600.0,Tarjeta Crédito,Meta
+2025-01-15 16:21:03.823150,353445,Milo Frío,Bebidas,5500.0,2,11000.0,Tarjeta Débito,Cundinamarca
+2025-01-15 16:57:43.983003,624554,Malteada de Café,Café Frío,7800.0,2,15600.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-15 17:00:22.576469,350750,Frappé Caramelo,Café Frío,7400.0,1,7400.0,Daviplata,Bogotá D.C.
+2025-01-15 17:10:51.167214,746304,Huevos Pericos,Desayunos,8600.0,3,25800.0,Efectivo,Meta
+2025-01-15 17:15:45.367123,620950,Tamal Tolimense,Desayunos,9100.0,3,27300.0,Tarjeta Crédito,Cundinamarca
+2025-01-15 17:16:51.090984,397331,Aguapanela con Queso,Bebidas,2900.0,2,5800.0,Efectivo,Bogotá D.C.
+2025-01-15 17:28:42.555750,947720,Aguapanela con Queso,Bebidas,3400.0,4,13600.0,Tarjeta Crédito,Tolima
+2025-01-15 17:29:12.835693,566593,Brownie con Helado,Postres,5300.0,4,21200.0,Daviplata,Bogotá D.C.
+2025-01-15 17:29:28.759916,587793,Aguapanela con Queso,Bebidas,3400.0,3,10200.0,Tarjeta Débito,Meta
+2025-01-15 17:38:45.573330,962995,Café Origen Quindío,Café Caliente,5200.0,2,10400.0,Tarjeta Débito,Meta
+2025-01-15 17:59:01.822157,133032,Empanada de Queso,Panadería,3000.0,1,3000.0,Tarjeta Crédito,Cundinamarca
+2025-01-15 17:59:51.575188,764556,Pan de Yuca,Panadería,3200.0,1,3200.0,Tarjeta Débito,Meta
+2025-01-15 18:06:03.636237,902469,Jugo Natural de Temporada,Bebidas,4600.0,4,18400.0,Daviplata,Cundinamarca
+2025-01-16 07:07:56.023645,904221,Torta de Café,Postres,7100.0,3,21300.0,Tarjeta Débito,Boyacá
+2025-01-16 07:31:43.343793,888300,Té Chai,Bebidas,5400.0,1,5400.0,Efectivo,Bogotá D.C.
+2025-01-16 07:53:55.475417,862571,Cheesecake de Café,Postres,8800.0,5,44000.0,Daviplata,Bogotá D.C.
+2025-01-16 08:05:37.046033,158795,Brownie con Helado,Postres,4900.0,3,14700.0,Daviplata,Valle del Cauca
+2025-01-16 08:11:32.170377,345086,Chocolate Santafereño,Bebidas,6100.0,4,24400.0,Efectivo,Cundinamarca
+2025-01-16 08:14:17.705429,705131,Cold Brew Clásico,Café Frío,6100.0,2,12200.0,Tarjeta Crédito,Cundinamarca
+2025-01-16 08:14:50.025640,234138,Desayuno Ejecutivo,Desayunos,15600.0,1,15600.0,Nequi,Bogotá D.C.
+2025-01-16 08:18:17.196819,302671,Changua Bogotana,Desayunos,7800.0,4,31200.0,Efectivo,Cundinamarca
+2025-01-16 08:23:23.678575,915617,Desayuno Ejecutivo,Desayunos,16700.0,3,50100.0,Tarjeta Débito,Boyacá
+2025-01-16 08:24:25.069057,978152,Aguapanela con Queso,Bebidas,2700.0,4,10800.0,Efectivo,Valle del Cauca
+2025-01-16 08:40:08.196481,781324,Espresso Doble,Café Caliente,3700.0,2,7400.0,Tarjeta Débito,Bogotá D.C.
+2025-01-16 08:43:28.762027,187574,Aromática de Frutas,Bebidas,4600.0,2,9200.0,Efectivo,Bogotá D.C.
+2025-01-16 08:45:26.090986,659363,Café Helado,Café Frío,7300.0,1,7300.0,Tarjeta Débito,Valle del Cauca
+2025-01-16 08:48:23.601653,632465,Torta de Café,Postres,6900.0,1,6900.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-16 08:53:51.360514,918992,Empanada de Queso,Panadería,3100.0,1,3100.0,Tarjeta Crédito,Cundinamarca
+2025-01-16 09:21:21.698732,762710,Empanada de Queso,Panadería,3000.0,1,3000.0,Tarjeta Débito,Bogotá D.C.
+2025-01-16 09:29:52.098319,450418,Torta de Café,Postres,6200.0,1,6200.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-16 13:18:05.953895,934239,Café Origen Quindío,Café Caliente,5400.0,3,16200.0,Efectivo,Bogotá D.C.
+2025-01-16 13:20:20.360914,946733,Pan de Chocolate,Panadería,3000.0,1,3000.0,Tarjeta Débito,Boyacá
+2025-01-16 13:28:49.795191,564498,Tinto Tradicional,Café Caliente,2900.0,2,5800.0,Nequi,Boyacá
+2025-01-16 13:39:25.951776,496306,Brownie con Helado,Postres,5400.0,1,5400.0,Daviplata,Cundinamarca
+2025-01-16 13:45:17.794966,28948,Almojábana Tradicional,Panadería,2700.0,1,2700.0,Nequi,Bogotá D.C.
+2025-01-16 13:45:34.679162,975525,Chocolate Santafereño,Bebidas,4600.0,2,9200.0,Efectivo,Bogotá D.C.
+2025-01-16 13:48:13.365989,190395,Flan de Caramelo,Postres,6300.0,2,12600.0,Nequi,Bogotá D.C.
+2025-01-16 13:54:50.357238,856738,Brownie con Helado,Postres,4600.0,2,9200.0,Efectivo,Santander
+2025-01-16 14:39:39.979594,905873,Café Origen Quindío,Café Caliente,4100.0,2,8200.0,Tarjeta Débito,Antioquia
+2025-01-16 16:38:09.875857,774540,Tres Leches Tradicional,Postres,6700.0,1,6700.0,Tarjeta Débito,Bogotá D.C.
+2025-01-16 17:02:12.227552,754822,Jugo Natural de Temporada,Bebidas,4500.0,4,18000.0,Tarjeta Crédito,Boyacá
+2025-01-16 17:08:58.760206,109112,Brownie con Helado,Postres,6300.0,1,6300.0,Tarjeta Débito,Valle del Cauca
+2025-01-16 17:09:32.373246,512246,Malteada de Café,Café Frío,8300.0,1,8300.0,Daviplata,Cundinamarca
+2025-01-16 17:13:49.603746,118702,Chocolate Santafereño,Bebidas,5600.0,3,16800.0,Efectivo,Antioquia
+2025-01-16 17:18:42.276586,418288,Té Chai,Bebidas,4700.0,1,4700.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-16 17:28:56.509966,163075,Macchiato,Café Caliente,5300.0,1,5300.0,Efectivo,Cundinamarca
+2025-01-16 17:30:43.639230,643030,Flan de Caramelo,Postres,6600.0,1,6600.0,Tarjeta Crédito,Antioquia
+2025-01-16 17:31:33.339148,392662,Café con Leche,Café Caliente,4100.0,2,8200.0,Tarjeta Débito,Boyacá
+2025-01-16 17:43:52.419702,669083,Tamal Tolimense,Desayunos,9500.0,2,19000.0,Efectivo,Meta
+2025-01-16 17:44:41.803481,155237,Flan de Caramelo,Postres,6400.0,3,19200.0,Nequi,Tolima
+2025-01-16 17:48:06.349820,341191,Tinto Tradicional,Café Caliente,3200.0,2,6400.0,Efectivo,Bogotá D.C.
+2025-01-16 18:07:58.087006,464960,Macchiato,Café Caliente,5100.0,3,15300.0,Efectivo,Meta
+2025-01-16 18:27:57.591765,339616,Capuchino Especial,Café Caliente,5900.0,1,5900.0,Tarjeta Débito,Bogotá D.C.
+2025-01-17 07:04:04.213366,157614,Empanada de Queso,Panadería,3100.0,2,6200.0,Nequi,Bogotá D.C.
+2025-01-17 08:01:13.288877,998387,Malteada de Café,Café Frío,8100.0,2,16200.0,Tarjeta Débito,Antioquia
+2025-01-17 08:04:19.820524,388000,Huevos Pericos,Desayunos,8300.0,2,16600.0,Daviplata,Bogotá D.C.
+2025-01-17 08:05:50.606471,824058,Aguapanela con Queso,Bebidas,2800.0,1,2800.0,Efectivo,Santander
+2025-01-17 08:21:11.146287,306260,Tamal Tolimense,Desayunos,11400.0,5,57000.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-17 08:28:26.370610,770047,Chocolate Santafereño,Bebidas,4500.0,1,4500.0,Efectivo,Tolima
+2025-01-17 08:43:26.593420,889630,Té Chai,Bebidas,5200.0,1,5200.0,Tarjeta Débito,Antioquia
+2025-01-17 08:44:55.284189,745339,Jugo Natural de Temporada,Bebidas,5100.0,2,10200.0,Nequi,Cundinamarca
+2025-01-17 08:45:06.980319,28883,Huevos Pericos,Desayunos,9000.0,1,9000.0,Tarjeta Crédito,Antioquia
+2025-01-17 08:46:42.973403,742680,Tiramisú,Postres,8800.0,1,8800.0,Nequi,Bogotá D.C.
+2025-01-17 08:50:11.584126,961635,Cheesecake de Café,Postres,8800.0,3,26400.0,Efectivo,Bogotá D.C.
+2025-01-17 08:50:54.322216,746551,Desayuno Ejecutivo,Desayunos,17300.0,1,17300.0,Tarjeta Débito,Bogotá D.C.
+2025-01-17 08:51:13.063007,440744,Tiramisú,Postres,9500.0,4,38000.0,Efectivo,Cundinamarca
+2025-01-17 08:52:55.902211,85404,Huevos Pericos,Desayunos,9300.0,3,27900.0,Nequi,Antioquia
+2025-01-17 09:13:39.123527,841481,Pan de Yuca,Panadería,3400.0,1,3400.0,Nequi,Santander
+2025-01-17 09:23:32.814447,281274,Desayuno Ejecutivo,Desayunos,17900.0,4,71600.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-17 09:27:02.589521,563601,Empanada de Queso,Panadería,3000.0,1,3000.0,Tarjeta Débito,Valle del Cauca
+2025-01-17 12:30:20.202040,324839,Cheesecake de Café,Postres,7700.0,3,23100.0,Nequi,Bogotá D.C.
+2025-01-17 12:31:49.362525,778330,Pan de Chocolate,Panadería,3500.0,1,3500.0,Efectivo,Valle del Cauca
+2025-01-17 12:38:35.825452,595897,Tamal Tolimense,Desayunos,11400.0,1,11400.0,Tarjeta Débito,Boyacá
+2025-01-17 13:02:04.508275,737684,Macchiato,Café Caliente,5500.0,1,5500.0,Efectivo,Bogotá D.C.
+2025-01-17 13:03:21.723666,658212,Granizado de Café,Café Frío,7800.0,1,7800.0,Tarjeta Débito,Boyacá
+2025-01-17 13:20:08.241598,340135,Huevos Pericos,Desayunos,8900.0,2,17800.0,Daviplata,Cundinamarca
+2025-01-17 13:31:21.344704,283714,Café Origen Quindío,Café Caliente,4000.0,2,8000.0,Nequi,Cundinamarca
+2025-01-17 13:38:46.230901,138319,Chocolate Santafereño,Bebidas,5400.0,3,16200.0,Nequi,Cundinamarca
+2025-01-17 13:59:53.662599,330518,Cheesecake de Café,Postres,7300.0,1,7300.0,Efectivo,Bogotá D.C.
+2025-01-17 14:32:53.327486,99044,Flan de Caramelo,Postres,6500.0,2,13000.0,Tarjeta Débito,Tolima
+2025-01-17 17:03:50.177196,610646,Pan de Bono Fresco,Panadería,2700.0,2,5400.0,Tarjeta Crédito,Santander
+2025-01-17 17:04:07.475342,860873,Tres Leches Tradicional,Postres,6400.0,1,6400.0,Tarjeta Débito,Bogotá D.C.
+2025-01-17 17:05:50.764949,503230,Croissant de Mantequilla,Panadería,4300.0,2,8600.0,Efectivo,Antioquia
+2025-01-17 17:22:40.358395,780163,Cheesecake de Café,Postres,7000.0,2,14000.0,Tarjeta Débito,Santander
+2025-01-17 17:30:59.218877,205224,Cheesecake de Café,Postres,7200.0,1,7200.0,Efectivo,Bogotá D.C.
+2025-01-17 17:32:25.659864,885018,Torta de Café,Postres,5900.0,3,17700.0,Efectivo,Valle del Cauca
+2025-01-17 18:16:44.393118,307437,Desayuno Ejecutivo,Desayunos,15600.0,1,15600.0,Efectivo,Boyacá
+2025-01-18 08:26:26.176395,428987,Aguapanela con Queso,Bebidas,3000.0,1,3000.0,Efectivo,Antioquia
+2025-01-18 08:29:44.080389,130523,Empanada de Queso,Panadería,2800.0,1,2800.0,Daviplata,Cundinamarca
+2025-01-18 08:30:16.746677,793202,Aguapanela con Queso,Bebidas,3000.0,1,3000.0,Tarjeta Débito,Bogotá D.C.
+2025-01-18 08:35:46.656100,560924,Pan de Yuca,Panadería,3200.0,2,6400.0,Tarjeta Crédito,Cundinamarca
+2025-01-18 08:59:05.160228,522788,Tres Leches Tradicional,Postres,6200.0,1,6200.0,Tarjeta Crédito,Boyacá
+2025-01-18 12:13:53.178679,245257,Aromática de Frutas,Bebidas,4800.0,3,14400.0,Nequi,Meta
+2025-01-18 12:43:50.806183,433605,Calentado Paisa,Desayunos,14300.0,1,14300.0,Efectivo,Cundinamarca
+2025-01-18 13:12:22.445172,185913,Chocolate Santafereño,Bebidas,4800.0,1,4800.0,Tarjeta Crédito,Meta
+2025-01-18 13:24:09.102068,536996,Torta de Café,Postres,6700.0,2,13400.0,Tarjeta Crédito,Tolima
+2025-01-18 13:51:32.900593,205062,Changua Bogotana,Desayunos,8700.0,2,17400.0,Nequi,Bogotá D.C.
+2025-01-18 13:52:40.173039,326598,Torta de Café,Postres,7000.0,2,14000.0,Efectivo,Bogotá D.C.
+2025-01-18 13:57:21.300930,172853,Calentado Paisa,Desayunos,15000.0,1,15000.0,Efectivo,Cundinamarca
+2025-01-18 14:23:51.444452,993191,Malteada de Café,Café Frío,8300.0,2,16600.0,Tarjeta Crédito,Antioquia
+2025-01-18 14:43:01.694535,352955,Brownie con Helado,Postres,4900.0,3,14700.0,Tarjeta Débito,Cundinamarca
+2025-01-18 16:27:23.164766,602166,Jugo Natural de Temporada,Bebidas,5900.0,2,11800.0,Tarjeta Crédito,Antioquia
+2025-01-18 16:35:19.489323,638234,Café Helado,Café Frío,7200.0,1,7200.0,Nequi,Bogotá D.C.
+2025-01-18 17:02:24.460561,530869,Té Chai,Bebidas,4900.0,2,9800.0,Efectivo,Valle del Cauca
+2025-01-18 17:20:04.802869,499043,Pastel de Pollo,Panadería,4700.0,1,4700.0,Tarjeta Débito,Boyacá
+2025-01-18 17:22:30.101347,421973,Empanada de Queso,Panadería,3600.0,3,10800.0,Tarjeta Débito,Bogotá D.C.
+2025-01-18 17:33:01.656595,947287,Pan de Yuca,Panadería,2600.0,1,2600.0,Tarjeta Débito,Meta
+2025-01-18 17:35:56.209185,476572,Tamal Tolimense,Desayunos,11800.0,2,23600.0,Daviplata,Bogotá D.C.
+2025-01-18 17:36:06.438052,100258,Pan de Bono Fresco,Panadería,3000.0,2,6000.0,Efectivo,Bogotá D.C.
+2025-01-18 17:44:39.132140,820856,Capuchino Especial,Café Caliente,6300.0,1,6300.0,Efectivo,Meta
+2025-01-18 17:46:41.792473,192463,Café Helado,Café Frío,6200.0,2,12400.0,Efectivo,Antioquia
+2025-01-18 17:50:45.094229,686408,Café Origen Quindío,Café Caliente,5400.0,3,16200.0,Efectivo,Valle del Cauca
+2025-01-18 18:30:54.516092,61414,Aguapanela con Queso,Bebidas,2800.0,1,2800.0,Tarjeta Crédito,Boyacá
+2025-01-19 07:05:55.705990,645426,Aromática de Frutas,Bebidas,4000.0,2,8000.0,Tarjeta Débito,Bogotá D.C.
+2025-01-19 07:19:18.404028,932115,Chocolate Santafereño,Bebidas,5300.0,5,26500.0,Nequi,Meta
+2025-01-19 08:04:30.817552,996460,Frappé Caramelo,Café Frío,7600.0,2,15200.0,Nequi,Valle del Cauca
+2025-01-19 08:09:03.673242,703462,Chocolate Santafereño,Bebidas,5800.0,1,5800.0,Efectivo,Bogotá D.C.
+2025-01-19 08:09:07.863463,605351,Pastel de Pollo,Panadería,4800.0,1,4800.0,Nequi,Bogotá D.C.
+2025-01-19 08:14:41.262994,439201,Jugo Natural de Temporada,Bebidas,5300.0,1,5300.0,Tarjeta Crédito,Boyacá
+2025-01-19 08:15:52.960583,389165,Café con Leche,Café Caliente,4500.0,3,13500.0,Nequi,Bogotá D.C.
+2025-01-19 08:22:31.413682,358928,Milo Frío,Bebidas,5000.0,2,10000.0,Tarjeta Débito,Cundinamarca
+2025-01-19 08:32:29.381876,265798,Cheesecake de Café,Postres,7000.0,1,7000.0,Tarjeta Débito,Boyacá
+2025-01-19 08:33:00.923951,62537,Almojábana Tradicional,Panadería,2800.0,4,11200.0,Efectivo,Bogotá D.C.
+2025-01-19 08:35:49.493009,158391,Aromática de Frutas,Bebidas,3600.0,1,3600.0,Tarjeta Débito,Bogotá D.C.
+2025-01-19 08:37:55.538654,541558,Té Chai,Bebidas,5300.0,4,21200.0,Tarjeta Débito,Bogotá D.C.
+2025-01-19 08:38:41.881143,856146,Malteada de Café,Café Frío,8400.0,1,8400.0,Nequi,Cundinamarca
+2025-01-19 08:49:14.380868,606141,Changua Bogotana,Desayunos,8700.0,1,8700.0,Daviplata,Bogotá D.C.
+2025-01-19 08:56:39.313342,825738,Pan de Chocolate,Panadería,3300.0,1,3300.0,Tarjeta Débito,Bogotá D.C.
+2025-01-19 12:11:30.936029,763257,Almojábana Tradicional,Panadería,2900.0,1,2900.0,Nequi,Valle del Cauca
+2025-01-19 13:00:46.337666,994855,Café Helado,Café Frío,7400.0,3,22200.0,Efectivo,Antioquia
+2025-01-19 13:02:40.531490,357410,Tamal Tolimense,Desayunos,11200.0,3,33600.0,Tarjeta Crédito,Boyacá
+2025-01-19 13:05:56.591952,992373,Croissant de Mantequilla,Panadería,3700.0,2,7400.0,Efectivo,Bogotá D.C.
+2025-01-19 13:10:21.043828,73861,Jugo Natural de Temporada,Bebidas,4600.0,2,9200.0,Efectivo,Valle del Cauca
+2025-01-19 13:12:21.100373,307347,Tiramisú,Postres,7500.0,2,15000.0,Daviplata,Bogotá D.C.
+2025-01-19 13:13:32.274756,450540,Cheesecake de Café,Postres,7400.0,4,29600.0,Tarjeta Crédito,Meta
+2025-01-19 13:18:26.000030,493828,Macchiato,Café Caliente,4700.0,1,4700.0,Efectivo,Boyacá
+2025-01-19 13:33:46.363080,997434,Croissant de Mantequilla,Panadería,4400.0,2,8800.0,Efectivo,Boyacá
+2025-01-19 13:37:20.214089,983261,Empanada de Queso,Panadería,3700.0,1,3700.0,Tarjeta Crédito,Cundinamarca
+2025-01-19 13:44:50.132603,421489,Torta de Café,Postres,6300.0,2,12600.0,Daviplata,Valle del Cauca
+2025-01-19 13:58:40.201208,497196,Pan de Yuca,Panadería,3100.0,2,6200.0,Tarjeta Débito,Bogotá D.C.
+2025-01-19 17:05:36.359322,274452,Cheesecake de Café,Postres,7900.0,2,15800.0,Daviplata,Meta
+2025-01-19 17:06:08.628570,923250,Granizado de Café,Café Frío,7100.0,1,7100.0,Efectivo,Bogotá D.C.
+2025-01-19 17:12:33.537542,575832,Milo Frío,Bebidas,6600.0,4,26400.0,Efectivo,Cundinamarca
+2025-01-19 17:23:34.869881,40098,Flan de Caramelo,Postres,6600.0,4,26400.0,Efectivo,Bogotá D.C.
+2025-01-19 17:24:56.821601,742358,Café Helado,Café Frío,7300.0,5,36500.0,Daviplata,Bogotá D.C.
+2025-01-19 17:45:59.408419,77734,Croissant de Mantequilla,Panadería,4400.0,1,4400.0,Efectivo,Meta
+2025-01-20 08:02:46.582868,144549,Latte Helado,Café Frío,8300.0,2,16600.0,Efectivo,Bogotá D.C.
+2025-01-20 08:05:13.230796,187239,Tamal Tolimense,Desayunos,10600.0,2,21200.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-20 08:07:30.047390,689668,Flan de Caramelo,Postres,6200.0,3,18600.0,Tarjeta Crédito,Antioquia
+2025-01-20 08:09:26.074499,50298,Jugo Natural de Temporada,Bebidas,4900.0,1,4900.0,Efectivo,Cundinamarca
+2025-01-20 08:18:46.377315,270027,Pan de Yuca,Panadería,2800.0,1,2800.0,Tarjeta Débito,Bogotá D.C.
+2025-01-20 08:18:55.898639,351915,Malteada de Café,Café Frío,9000.0,1,9000.0,Tarjeta Débito,Santander
+2025-01-20 08:20:47.302943,350162,Macchiato,Café Caliente,5400.0,1,5400.0,Nequi,Antioquia
+2025-01-20 08:29:35.532489,890324,Café Campesino,Café Caliente,2200.0,2,4400.0,Tarjeta Débito,Tolima
+2025-01-20 08:41:04.183144,923620,Latte Helado,Café Frío,6600.0,1,6600.0,Efectivo,Antioquia
+2025-01-20 08:53:09.620916,253685,Tinto Tradicional,Café Caliente,3000.0,2,6000.0,Tarjeta Débito,Bogotá D.C.
+2025-01-20 08:53:53.982871,418078,Cheesecake de Café,Postres,7500.0,4,30000.0,Efectivo,Bogotá D.C.
+2025-01-20 09:16:05.318477,604695,Aromática de Frutas,Bebidas,4700.0,3,14100.0,Nequi,Antioquia
+2025-01-20 09:18:40.340274,622638,Frappé Caramelo,Café Frío,7200.0,1,7200.0,Tarjeta Crédito,Tolima
+2025-01-20 12:14:41.609722,788078,Macchiato,Café Caliente,4600.0,1,4600.0,Efectivo,Bogotá D.C.
+2025-01-20 12:16:59.825796,769162,Café Campesino,Café Caliente,2200.0,1,2200.0,Tarjeta Débito,Antioquia
+2025-01-20 12:30:01.682781,449722,Latte Helado,Café Frío,6700.0,3,20100.0,Tarjeta Débito,Bogotá D.C.
+2025-01-20 13:06:27.358888,232013,Pan de Bono Fresco,Panadería,3200.0,2,6400.0,Tarjeta Débito,Bogotá D.C.
+2025-01-20 13:11:02.294793,397975,Café Helado,Café Frío,7900.0,1,7900.0,Efectivo,Bogotá D.C.
+2025-01-20 13:17:09.198016,413527,Espresso Doble,Café Caliente,3200.0,1,3200.0,Tarjeta Débito,Bogotá D.C.
+2025-01-20 13:18:45.228103,387817,Chocolate Santafereño,Bebidas,5300.0,2,10600.0,Daviplata,Meta
+2025-01-20 13:29:59.085720,721589,Cheesecake de Café,Postres,8100.0,4,32400.0,Efectivo,Cundinamarca
+2025-01-20 13:32:13.350481,428583,Flan de Caramelo,Postres,5300.0,2,10600.0,Tarjeta Débito,Bogotá D.C.
+2025-01-20 13:33:09.165041,755389,Pan de Chocolate,Panadería,3700.0,1,3700.0,Nequi,Bogotá D.C.
+2025-01-20 13:42:03.347493,177120,Café Helado,Café Frío,6400.0,5,32000.0,Nequi,Bogotá D.C.
+2025-01-20 13:43:15.736049,985799,Frappé Caramelo,Café Frío,8900.0,1,8900.0,Efectivo,Antioquia
+2025-01-20 13:43:28.081807,460671,Tinto Tradicional,Café Caliente,3500.0,2,7000.0,Daviplata,Cundinamarca
+2025-01-20 13:51:39.467695,798957,Café Helado,Café Frío,6100.0,2,12200.0,Efectivo,Meta
+2025-01-20 13:56:07.075095,609906,Café Helado,Café Frío,7200.0,1,7200.0,Nequi,Bogotá D.C.
+2025-01-20 13:57:05.266692,976229,Tamal Tolimense,Desayunos,9500.0,1,9500.0,Nequi,Bogotá D.C.
+2025-01-20 16:03:25.756999,104620,Malteada de Café,Café Frío,8900.0,2,17800.0,Efectivo,Antioquia
+2025-01-20 16:33:25.780591,165380,Jugo Natural de Temporada,Bebidas,5500.0,2,11000.0,Nequi,Santander
+2025-01-20 16:33:41.706919,19996,Calentado Paisa,Desayunos,12900.0,5,64500.0,Daviplata,Cundinamarca
+2025-01-20 16:53:17.253735,352604,Frappé Caramelo,Café Frío,8800.0,3,26400.0,Tarjeta Crédito,Santander
+2025-01-20 17:00:01.702638,332701,Café Helado,Café Frío,7500.0,1,7500.0,Tarjeta Débito,Cundinamarca
+2025-01-20 17:06:36.340816,218355,Changua Bogotana,Desayunos,8200.0,2,16400.0,Tarjeta Débito,Meta
+2025-01-20 17:08:29.066297,913197,Torta de Café,Postres,6700.0,4,26800.0,Daviplata,Bogotá D.C.
+2025-01-20 17:12:52.717463,536955,Tamal Tolimense,Desayunos,10000.0,2,20000.0,Nequi,Cundinamarca
+2025-01-20 17:39:04.672637,856620,Calentado Paisa,Desayunos,12200.0,2,24400.0,Efectivo,Bogotá D.C.
+2025-01-20 17:42:16.464574,470969,Latte Helado,Café Frío,6800.0,1,6800.0,Daviplata,Bogotá D.C.
+2025-01-20 17:42:34.776456,830556,Café Campesino,Café Caliente,2900.0,1,2900.0,Tarjeta Débito,Bogotá D.C.
+2025-01-20 17:51:28.244972,132553,Café Helado,Café Frío,7600.0,1,7600.0,Nequi,Boyacá
+2025-01-20 17:51:51.113786,594864,Aguapanela con Queso,Bebidas,3100.0,1,3100.0,Tarjeta Débito,Bogotá D.C.
+2025-01-20 17:55:12.204501,439342,Tamal Tolimense,Desayunos,9200.0,1,9200.0,Efectivo,Cundinamarca
+2025-01-20 17:55:39.207681,511360,Calentado Paisa,Desayunos,12400.0,2,24800.0,Tarjeta Débito,Bogotá D.C.
+2025-01-21 08:11:39.122245,588854,Café con Leche,Café Caliente,4000.0,4,16000.0,Efectivo,Boyacá
+2025-01-21 08:16:57.028125,935691,Torta de Café,Postres,6100.0,1,6100.0,Tarjeta Crédito,Meta
+2025-01-21 08:19:06.942899,311751,Pan de Chocolate,Panadería,4000.0,4,16000.0,Efectivo,Bogotá D.C.
+2025-01-21 08:26:45.133486,789504,Empanada de Queso,Panadería,3400.0,3,10200.0,Tarjeta Débito,Cundinamarca
+2025-01-21 08:28:01.030709,843315,Milo Frío,Bebidas,6300.0,1,6300.0,Tarjeta Crédito,Antioquia
+2025-01-21 08:29:52.190936,512623,Aromática de Frutas,Bebidas,4100.0,5,20500.0,Tarjeta Crédito,Valle del Cauca
+2025-01-21 08:37:07.714897,395974,Desayuno Ejecutivo,Desayunos,16500.0,1,16500.0,Tarjeta Crédito,Antioquia
+2025-01-21 12:31:21.948711,969815,Almojábana Tradicional,Panadería,3400.0,2,6800.0,Efectivo,Boyacá
+2025-01-21 13:06:07.670583,212704,Café Helado,Café Frío,6600.0,3,19800.0,Efectivo,Bogotá D.C.
+2025-01-21 13:10:11.317092,717959,Chocolate Santafereño,Bebidas,4600.0,3,13800.0,Nequi,Bogotá D.C.
+2025-01-21 13:18:45.719726,302726,Pan de Yuca,Panadería,2700.0,1,2700.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-21 13:23:24.759782,187169,Cold Brew Clásico,Café Frío,6600.0,1,6600.0,Efectivo,Bogotá D.C.
+2025-01-21 13:30:28.635440,462046,Café Helado,Café Frío,8000.0,1,8000.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-21 13:45:56.468728,719708,Flan de Caramelo,Postres,6400.0,2,12800.0,Efectivo,Bogotá D.C.
+2025-01-21 13:47:24.373114,509028,Calentado Paisa,Desayunos,14600.0,4,58400.0,Tarjeta Débito,Bogotá D.C.
+2025-01-21 13:53:54.350634,263987,Café con Leche,Café Caliente,3800.0,3,11400.0,Daviplata,Bogotá D.C.
+2025-01-21 13:56:03.387223,789248,Café Helado,Café Frío,6000.0,3,18000.0,Efectivo,Valle del Cauca
+2025-01-21 13:56:44.521706,517702,Malteada de Café,Café Frío,9400.0,1,9400.0,Tarjeta Débito,Meta
+2025-01-21 17:01:04.406695,902459,Latte Helado,Café Frío,8400.0,1,8400.0,Daviplata,Valle del Cauca
+2025-01-21 17:02:45.558419,444001,Tamal Tolimense,Desayunos,11400.0,1,11400.0,Tarjeta Débito,Cundinamarca
+2025-01-21 17:10:03.487954,994973,Changua Bogotana,Desayunos,7900.0,2,15800.0,Nequi,Valle del Cauca
+2025-01-21 17:14:22.261225,843728,Latte Helado,Café Frío,8500.0,1,8500.0,Nequi,Bogotá D.C.
+2025-01-21 17:14:40.864316,738219,Calentado Paisa,Desayunos,12500.0,4,50000.0,Tarjeta Débito,Valle del Cauca
+2025-01-21 17:15:30.089034,509949,Cheesecake de Café,Postres,8800.0,1,8800.0,Tarjeta Débito,Bogotá D.C.
+2025-01-21 17:23:04.224686,817901,Tres Leches Tradicional,Postres,6600.0,1,6600.0,Daviplata,Valle del Cauca
+2025-01-21 17:30:17.082306,417694,Flan de Caramelo,Postres,6600.0,1,6600.0,Tarjeta Crédito,Cundinamarca
+2025-01-21 17:45:02.280444,137618,Tiramisú,Postres,9100.0,1,9100.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-21 17:46:01.510287,423113,Brownie con Helado,Postres,4600.0,3,13800.0,Tarjeta Crédito,Antioquia
+2025-01-21 17:46:45.762406,249427,Pan de Yuca,Panadería,3500.0,1,3500.0,Tarjeta Débito,Tolima
+2025-01-21 17:51:13.554952,434935,Empanada de Queso,Panadería,3600.0,2,7200.0,Tarjeta Débito,Cundinamarca
+2025-01-21 18:17:34.689857,36376,Café con Leche,Café Caliente,4400.0,1,4400.0,Tarjeta Crédito,Antioquia
+2025-01-22 07:33:32.357714,530111,Pan de Bono Fresco,Panadería,2700.0,1,2700.0,Daviplata,Cundinamarca
+2025-01-22 08:01:45.161709,373739,Malteada de Café,Café Frío,9000.0,1,9000.0,Daviplata,Santander
+2025-01-22 08:11:08.379885,723795,Almojábana Tradicional,Panadería,3000.0,1,3000.0,Daviplata,Cundinamarca
+2025-01-22 08:25:26.573976,153725,Empanada de Queso,Panadería,3000.0,1,3000.0,Nequi,Bogotá D.C.
+2025-01-22 08:25:40.972948,485922,Desayuno Ejecutivo,Desayunos,17100.0,1,17100.0,Tarjeta Débito,Cundinamarca
+2025-01-22 08:34:31.159367,274425,Torta de Café,Postres,7100.0,1,7100.0,Tarjeta Crédito,Boyacá
+2025-01-22 08:40:05.178870,446066,Café con Leche,Café Caliente,3900.0,1,3900.0,Tarjeta Débito,Meta
+2025-01-22 08:40:25.974664,135640,Aromática de Frutas,Bebidas,4600.0,1,4600.0,Tarjeta Débito,Boyacá
+2025-01-22 08:47:03.494385,644070,Latte Helado,Café Frío,6500.0,3,19500.0,Efectivo,Boyacá
+2025-01-22 08:47:25.848440,143351,Changua Bogotana,Desayunos,8800.0,1,8800.0,Tarjeta Débito,Bogotá D.C.
+2025-01-22 08:52:59.624684,196328,Granizado de Café,Café Frío,6600.0,4,26400.0,Efectivo,Meta
+2025-01-22 12:57:34.326164,786413,Tiramisú,Postres,8500.0,4,34000.0,Efectivo,Bogotá D.C.
+2025-01-22 13:00:04.669545,893008,Tres Leches Tradicional,Postres,7000.0,1,7000.0,Efectivo,Antioquia
+2025-01-22 13:33:48.494065,952335,Frappé Caramelo,Café Frío,8300.0,4,33200.0,Nequi,Santander
+2025-01-22 13:42:29.619912,373219,Cold Brew Clásico,Café Frío,5700.0,2,11400.0,Daviplata,Valle del Cauca
+2025-01-22 13:48:16.849877,882661,Empanada de Queso,Panadería,3300.0,4,13200.0,Nequi,Bogotá D.C.
+2025-01-22 13:51:07.165758,145735,Desayuno Ejecutivo,Desayunos,17200.0,2,34400.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-22 14:52:35.214479,282572,Cheesecake de Café,Postres,7900.0,1,7900.0,Nequi,Bogotá D.C.
+2025-01-22 17:00:41.892360,83616,Torta de Café,Postres,6800.0,1,6800.0,Efectivo,Tolima
+2025-01-22 17:13:24.494113,417599,Café Helado,Café Frío,6300.0,1,6300.0,Efectivo,Meta
+2025-01-22 17:25:30.529100,560133,Flan de Caramelo,Postres,5900.0,2,11800.0,Tarjeta Débito,Bogotá D.C.
+2025-01-22 17:38:27.150083,230751,Tinto Tradicional,Café Caliente,3400.0,1,3400.0,Nequi,Bogotá D.C.
+2025-01-22 17:40:12.482391,832292,Tiramisú,Postres,8800.0,2,17600.0,Efectivo,Bogotá D.C.
+2025-01-22 17:43:13.977473,207493,Pastel de Pollo,Panadería,4900.0,5,24500.0,Tarjeta Débito,Meta
+2025-01-22 17:45:11.994161,898857,Cold Brew Clásico,Café Frío,6900.0,3,20700.0,Tarjeta Débito,Santander
+2025-01-22 17:51:42.724317,370432,Granizado de Café,Café Frío,8100.0,1,8100.0,Nequi,Cundinamarca
+2025-01-22 17:56:00.225724,905175,Pan de Chocolate,Panadería,3400.0,1,3400.0,Nequi,Meta
+2025-01-22 17:59:59.998599,429218,Malteada de Café,Café Frío,9100.0,1,9100.0,Nequi,Bogotá D.C.
+2025-01-23 08:07:09.842650,513642,Frappé Caramelo,Café Frío,7400.0,1,7400.0,Tarjeta Crédito,Meta
+2025-01-23 08:09:51.583638,44765,Té Chai,Bebidas,5100.0,1,5100.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-23 08:17:32.473375,788569,Pan de Yuca,Panadería,2700.0,1,2700.0,Nequi,Bogotá D.C.
+2025-01-23 08:18:18.872799,392000,Capuchino Especial,Café Caliente,6900.0,2,13800.0,Tarjeta Débito,Cundinamarca
+2025-01-23 08:21:14.935928,664637,Granizado de Café,Café Frío,6500.0,5,32500.0,Tarjeta Crédito,Cundinamarca
+2025-01-23 08:21:19.957246,189064,Café Campesino,Café Caliente,2600.0,4,10400.0,Nequi,Bogotá D.C.
+2025-01-23 08:22:15.567316,139926,Pan de Bono Fresco,Panadería,3500.0,1,3500.0,Tarjeta Crédito,Tolima
+2025-01-23 08:45:01.615512,794652,Frappé Caramelo,Café Frío,7600.0,1,7600.0,Tarjeta Débito,Bogotá D.C.
+2025-01-23 08:46:07.923460,507147,Croissant de Mantequilla,Panadería,4200.0,2,8400.0,Tarjeta Débito,Meta
+2025-01-23 08:51:29.448777,814979,Tinto Tradicional,Café Caliente,2600.0,2,5200.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-23 13:01:09.691457,492692,Desayuno Ejecutivo,Desayunos,15400.0,1,15400.0,Efectivo,Bogotá D.C.
+2025-01-23 13:01:40.993252,686855,Tiramisú,Postres,8200.0,2,16400.0,Tarjeta Crédito,Cundinamarca
+2025-01-23 13:05:31.662420,837021,Calentado Paisa,Desayunos,12800.0,1,12800.0,Nequi,Bogotá D.C.
+2025-01-23 13:11:00.100816,263016,Cheesecake de Café,Postres,8700.0,1,8700.0,Efectivo,Valle del Cauca
+2025-01-23 13:11:58.904151,582100,Huevos Pericos,Desayunos,9400.0,2,18800.0,Tarjeta Débito,Bogotá D.C.
+2025-01-23 13:18:26.050554,765346,Capuchino Especial,Café Caliente,6100.0,2,12200.0,Daviplata,Boyacá
+2025-01-23 13:25:01.952514,104788,Macchiato,Café Caliente,6000.0,1,6000.0,Efectivo,Cundinamarca
+2025-01-23 13:26:06.426918,59759,Tiramisú,Postres,7700.0,1,7700.0,Efectivo,Antioquia
+2025-01-23 13:46:11.805592,352231,Croissant de Mantequilla,Panadería,4400.0,3,13200.0,Efectivo,Meta
+2025-01-23 13:47:10.340595,495340,Pan de Yuca,Panadería,2500.0,1,2500.0,Efectivo,Antioquia
+2025-01-23 13:54:29.993311,484646,Tres Leches Tradicional,Postres,7100.0,1,7100.0,Tarjeta Débito,Bogotá D.C.
+2025-01-23 14:41:06.059886,132735,Latte Helado,Café Frío,6700.0,4,26800.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-23 17:04:25.535071,589561,Cold Brew Clásico,Café Frío,6400.0,5,32000.0,Efectivo,Antioquia
+2025-01-23 17:18:45.692152,382177,Macchiato,Café Caliente,4900.0,1,4900.0,Nequi,Bogotá D.C.
+2025-01-23 17:21:45.488345,236276,Café Campesino,Café Caliente,2800.0,1,2800.0,Efectivo,Antioquia
+2025-01-23 17:34:55.728523,118662,Capuchino Especial,Café Caliente,5700.0,1,5700.0,Efectivo,Bogotá D.C.
+2025-01-23 17:35:35.560996,57285,Macchiato,Café Caliente,6000.0,1,6000.0,Efectivo,Bogotá D.C.
+2025-01-23 17:37:29.370235,535259,Café con Leche,Café Caliente,3600.0,1,3600.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-23 17:53:46.224698,181945,Flan de Caramelo,Postres,6800.0,1,6800.0,Efectivo,Cundinamarca
+2025-01-23 17:59:20.709677,142857,Pan de Bono Fresco,Panadería,3500.0,2,7000.0,Efectivo,Bogotá D.C.
+2025-01-23 18:20:22.285970,742381,Latte Helado,Café Frío,7600.0,3,22800.0,Nequi,Bogotá D.C.
+2025-01-24 07:48:01.015452,503080,Jugo Natural de Temporada,Bebidas,4900.0,1,4900.0,Daviplata,Valle del Cauca
+2025-01-24 07:48:24.708381,659299,Tres Leches Tradicional,Postres,6300.0,1,6300.0,Tarjeta Débito,Bogotá D.C.
+2025-01-24 08:00:15.038324,412069,Chocolate Santafereño,Bebidas,5100.0,2,10200.0,Nequi,Bogotá D.C.
+2025-01-24 08:09:40.245289,778606,Granizado de Café,Café Frío,8400.0,2,16800.0,Tarjeta Débito,Tolima
+2025-01-24 08:18:29.948972,541428,Latte Helado,Café Frío,6800.0,1,6800.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-24 08:26:06.334539,649365,Desayuno Ejecutivo,Desayunos,16800.0,3,50400.0,Tarjeta Crédito,Valle del Cauca
+2025-01-24 08:30:40.662779,331963,Tamal Tolimense,Desayunos,9400.0,1,9400.0,Tarjeta Débito,Cundinamarca
+2025-01-24 08:34:29.883406,453397,Brownie con Helado,Postres,4700.0,1,4700.0,Efectivo,Bogotá D.C.
+2025-01-24 08:39:56.539362,819419,Pastel de Pollo,Panadería,4800.0,1,4800.0,Tarjeta Débito,Valle del Cauca
+2025-01-24 08:42:03.239542,877323,Café Origen Quindío,Café Caliente,4800.0,2,9600.0,Tarjeta Débito,Antioquia
+2025-01-24 09:21:01.798242,855641,Tiramisú,Postres,9100.0,1,9100.0,Tarjeta Débito,Cundinamarca
+2025-01-24 13:13:17.595617,426813,Malteada de Café,Café Frío,9500.0,4,38000.0,Nequi,Cundinamarca
+2025-01-24 13:20:25.211499,143326,Jugo Natural de Temporada,Bebidas,5500.0,2,11000.0,Tarjeta Débito,Bogotá D.C.
+2025-01-24 13:21:31.665950,379566,Changua Bogotana,Desayunos,7200.0,2,14400.0,Efectivo,Bogotá D.C.
+2025-01-24 13:26:31.996600,961623,Tamal Tolimense,Desayunos,9900.0,1,9900.0,Tarjeta Débito,Valle del Cauca
+2025-01-24 13:27:28.528997,847236,Torta de Café,Postres,7300.0,2,14600.0,Tarjeta Débito,Antioquia
+2025-01-24 13:40:09.975303,793091,Café Helado,Café Frío,6100.0,2,12200.0,Efectivo,Bogotá D.C.
+2025-01-24 13:57:44.954515,575561,Desayuno Ejecutivo,Desayunos,15900.0,2,31800.0,Tarjeta Débito,Bogotá D.C.
+2025-01-24 14:37:50.188671,984441,Chocolate Santafereño,Bebidas,5700.0,2,11400.0,Tarjeta Crédito,Cundinamarca
+2025-01-24 14:55:53.878428,252732,Milo Frío,Bebidas,6400.0,4,25600.0,Efectivo,Tolima
+2025-01-24 17:20:22.684273,834594,Té Chai,Bebidas,4600.0,1,4600.0,Nequi,Valle del Cauca
+2025-01-24 17:30:22.342583,802397,Pan de Bono Fresco,Panadería,3400.0,1,3400.0,Efectivo,Tolima
+2025-01-24 17:35:04.370702,108029,Torta de Café,Postres,6000.0,2,12000.0,Tarjeta Crédito,Valle del Cauca
+2025-01-24 17:40:18.857413,483397,Calentado Paisa,Desayunos,12000.0,1,12000.0,Efectivo,Cundinamarca
+2025-01-24 17:44:22.360811,204014,Croissant de Mantequilla,Panadería,3700.0,1,3700.0,Efectivo,Bogotá D.C.
+2025-01-25 07:06:47.982563,881189,Jugo Natural de Temporada,Bebidas,6300.0,3,18900.0,Efectivo,Bogotá D.C.
+2025-01-25 07:19:21.627566,365515,Croissant de Mantequilla,Panadería,3700.0,2,7400.0,Nequi,Bogotá D.C.
+2025-01-25 08:03:24.626807,923020,Tiramisú,Postres,7500.0,3,22500.0,Tarjeta Crédito,Antioquia
+2025-01-25 08:04:29.807374,908329,Granizado de Café,Café Frío,6900.0,3,20700.0,Tarjeta Crédito,Cundinamarca
+2025-01-25 08:15:10.508342,985423,Empanada de Queso,Panadería,2900.0,2,5800.0,Efectivo,Meta
+2025-01-25 08:19:08.558448,158924,Café Campesino,Café Caliente,2400.0,1,2400.0,Tarjeta Crédito,Tolima
+2025-01-25 08:29:27.791516,949014,Tres Leches Tradicional,Postres,7100.0,3,21300.0,Nequi,Antioquia
+2025-01-25 08:32:55.688708,459161,Cheesecake de Café,Postres,7100.0,3,21300.0,Tarjeta Débito,Bogotá D.C.
+2025-01-25 08:44:12.488773,785552,Calentado Paisa,Desayunos,14100.0,1,14100.0,Daviplata,Bogotá D.C.
+2025-01-25 08:54:18.350942,343483,Frappé Caramelo,Café Frío,7300.0,1,7300.0,Daviplata,Antioquia
+2025-01-25 09:20:08.940212,158860,Pan de Bono Fresco,Panadería,3000.0,2,6000.0,Tarjeta Débito,Santander
+2025-01-25 09:45:53.997692,468031,Calentado Paisa,Desayunos,13100.0,2,26200.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-25 13:00:12.073482,650437,Malteada de Café,Café Frío,9200.0,3,27600.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-25 13:03:16.098692,655033,Empanada de Queso,Panadería,2800.0,1,2800.0,Efectivo,Bogotá D.C.
+2025-01-25 13:07:05.647150,839589,Frappé Caramelo,Café Frío,8700.0,1,8700.0,Tarjeta Débito,Cundinamarca
+2025-01-25 13:16:36.396644,3551,Chocolate Santafereño,Bebidas,6400.0,1,6400.0,Tarjeta Crédito,Cundinamarca
+2025-01-25 13:41:40.209037,265135,Pan de Chocolate,Panadería,3200.0,3,9600.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-25 13:41:50.084170,226674,Capuchino Especial,Café Caliente,6500.0,1,6500.0,Tarjeta Débito,Bogotá D.C.
+2025-01-25 13:43:02.267412,175776,Tiramisú,Postres,8700.0,5,43500.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-25 13:44:37.623600,447042,Aguapanela con Queso,Bebidas,3300.0,2,6600.0,Efectivo,Antioquia
+2025-01-25 13:50:36.580413,790510,Huevos Pericos,Desayunos,8600.0,4,34400.0,Efectivo,Tolima
+2025-01-25 14:19:55.755759,258020,Cold Brew Clásico,Café Frío,6600.0,4,26400.0,Nequi,Meta
+2025-01-25 14:20:31.625138,258662,Pan de Chocolate,Panadería,3700.0,1,3700.0,Efectivo,Bogotá D.C.
+2025-01-25 14:21:29.034348,783949,Milo Frío,Bebidas,5800.0,1,5800.0,Tarjeta Débito,Meta
+2025-01-25 16:21:44.644003,714958,Aromática de Frutas,Bebidas,4800.0,4,19200.0,Nequi,Cundinamarca
+2025-01-25 17:03:45.319824,42906,Café Helado,Café Frío,7200.0,2,14400.0,Nequi,Meta
+2025-01-25 17:06:41.808874,276086,Malteada de Café,Café Frío,9400.0,1,9400.0,Tarjeta Débito,Antioquia
+2025-01-25 17:06:52.084980,576054,Granizado de Café,Café Frío,6600.0,2,13200.0,Tarjeta Débito,Cundinamarca
+2025-01-25 17:20:55.456239,927334,Cheesecake de Café,Postres,7900.0,1,7900.0,Tarjeta Débito,Antioquia
+2025-01-25 17:23:45.255776,205809,Flan de Caramelo,Postres,5700.0,1,5700.0,Efectivo,Bogotá D.C.
+2025-01-25 17:28:34.792158,990957,Latte Helado,Café Frío,8100.0,4,32400.0,Efectivo,Santander
+2025-01-25 17:35:47.738251,782725,Torta de Café,Postres,7000.0,1,7000.0,Daviplata,Bogotá D.C.
+2025-01-25 17:37:55.438771,111663,Pastel de Pollo,Panadería,5000.0,3,15000.0,Nequi,Tolima
+2025-01-25 17:46:05.775389,157593,Granizado de Café,Café Frío,6700.0,2,13400.0,Daviplata,Cundinamarca
+2025-01-26 08:02:00.139675,987964,Granizado de Café,Café Frío,6700.0,2,13400.0,Tarjeta Débito,Meta
+2025-01-26 08:10:51.633377,851200,Aromática de Frutas,Bebidas,4500.0,1,4500.0,Efectivo,Santander
+2025-01-26 08:11:26.736875,341357,Flan de Caramelo,Postres,5800.0,2,11600.0,Tarjeta Crédito,Boyacá
+2025-01-26 08:11:38.175845,19326,Milo Frío,Bebidas,6300.0,3,18900.0,Efectivo,Bogotá D.C.
+2025-01-26 08:19:34.279720,224946,Almojábana Tradicional,Panadería,3300.0,1,3300.0,Tarjeta Crédito,Santander
+2025-01-26 08:22:47.482759,816047,Huevos Pericos,Desayunos,8400.0,2,16800.0,Nequi,Cundinamarca
+2025-01-26 08:23:06.261551,458888,Tres Leches Tradicional,Postres,6300.0,1,6300.0,Nequi,Antioquia
+2025-01-26 08:26:11.684255,705220,Tres Leches Tradicional,Postres,8000.0,1,8000.0,Efectivo,Bogotá D.C.
+2025-01-26 08:30:43.479325,607262,Torta de Café,Postres,7300.0,3,21900.0,Tarjeta Débito,Meta
+2025-01-26 08:35:29.679020,438000,Café Origen Quindío,Café Caliente,4100.0,2,8200.0,Tarjeta Débito,Valle del Cauca
+2025-01-26 08:39:08.281227,206960,Brownie con Helado,Postres,4900.0,5,24500.0,Efectivo,Bogotá D.C.
+2025-01-26 08:46:26.208131,315626,Tiramisú,Postres,8000.0,1,8000.0,Efectivo,Cundinamarca
+2025-01-26 08:56:26.335502,470274,Aguapanela con Queso,Bebidas,2800.0,1,2800.0,Efectivo,Bogotá D.C.
+2025-01-26 08:59:32.032334,63386,Cold Brew Clásico,Café Frío,5700.0,4,22800.0,Efectivo,Bogotá D.C.
+2025-01-26 09:25:59.876671,813038,Aromática de Frutas,Bebidas,3600.0,1,3600.0,Tarjeta Débito,Cundinamarca
+2025-01-26 12:06:39.615420,675852,Huevos Pericos,Desayunos,8700.0,1,8700.0,Nequi,Bogotá D.C.
+2025-01-26 12:46:54.045440,219202,Desayuno Ejecutivo,Desayunos,16700.0,3,50100.0,Tarjeta Débito,Cundinamarca
+2025-01-26 13:12:24.083401,829891,Croissant de Mantequilla,Panadería,4200.0,5,21000.0,Efectivo,Bogotá D.C.
+2025-01-26 13:23:41.025283,853212,Té Chai,Bebidas,5900.0,1,5900.0,Efectivo,Bogotá D.C.
+2025-01-26 13:30:58.203662,912997,Croissant de Mantequilla,Panadería,3900.0,4,15600.0,Daviplata,Bogotá D.C.
+2025-01-26 13:35:19.255599,753909,Tiramisú,Postres,9000.0,3,27000.0,Nequi,Valle del Cauca
+2025-01-26 17:03:17.649594,74660,Pan de Bono Fresco,Panadería,2800.0,2,5600.0,Nequi,Cundinamarca
+2025-01-26 17:22:56.440526,241000,Empanada de Queso,Panadería,3700.0,1,3700.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-26 17:29:03.546494,547551,Café Helado,Café Frío,8000.0,1,8000.0,Tarjeta Crédito,Cundinamarca
+2025-01-26 17:31:48.291931,540108,Almojábana Tradicional,Panadería,3000.0,4,12000.0,Efectivo,Cundinamarca
+2025-01-26 17:34:07.637873,745085,Changua Bogotana,Desayunos,8700.0,3,26100.0,Nequi,Antioquia
+2025-01-26 17:36:02.304054,357989,Frappé Caramelo,Café Frío,7300.0,2,14600.0,Tarjeta Débito,Cundinamarca
+2025-01-26 17:37:21.636703,642871,Café con Leche,Café Caliente,4500.0,3,13500.0,Nequi,Valle del Cauca
+2025-01-26 17:40:14.363155,283843,Granizado de Café,Café Frío,8000.0,2,16000.0,Efectivo,Cundinamarca
+2025-01-26 17:40:25.502417,985254,Latte Helado,Café Frío,7500.0,4,30000.0,Nequi,Bogotá D.C.
+2025-01-26 17:41:44.504245,608875,Aromática de Frutas,Bebidas,4200.0,2,8400.0,Efectivo,Meta
+2025-01-26 17:56:24.622399,606562,Calentado Paisa,Desayunos,14400.0,1,14400.0,Efectivo,Meta
+2025-01-27 07:20:14.776047,3795,Changua Bogotana,Desayunos,8400.0,3,25200.0,Tarjeta Débito,Cundinamarca
+2025-01-27 07:41:33.031943,756431,Almojábana Tradicional,Panadería,3200.0,1,3200.0,Efectivo,Valle del Cauca
+2025-01-27 08:15:30.323195,221475,Cold Brew Clásico,Café Frío,6400.0,1,6400.0,Tarjeta Crédito,Boyacá
+2025-01-27 08:15:46.240468,217691,Té Chai,Bebidas,4500.0,1,4500.0,Tarjeta Débito,Cundinamarca
+2025-01-27 08:17:48.192908,247060,Brownie con Helado,Postres,5300.0,3,15900.0,Efectivo,Bogotá D.C.
+2025-01-27 08:18:38.552812,39388,Café Origen Quindío,Café Caliente,4700.0,1,4700.0,Tarjeta Crédito,Boyacá
+2025-01-27 08:20:20.523558,548696,Granizado de Café,Café Frío,7000.0,5,35000.0,Efectivo,Bogotá D.C.
+2025-01-27 08:22:45.142716,121978,Flan de Caramelo,Postres,6300.0,1,6300.0,Efectivo,Cundinamarca
+2025-01-27 08:33:56.692373,118568,Aguapanela con Queso,Bebidas,2900.0,2,5800.0,Nequi,Bogotá D.C.
+2025-01-27 08:43:21.352694,163037,Café Campesino,Café Caliente,2900.0,1,2900.0,Nequi,Cundinamarca
+2025-01-27 08:53:47.199361,404918,Cheesecake de Café,Postres,8400.0,1,8400.0,Efectivo,Antioquia
+2025-01-27 09:18:35.007122,272548,Latte Helado,Café Frío,8100.0,2,16200.0,Efectivo,Antioquia
+2025-01-27 12:58:08.317619,469757,Chocolate Santafereño,Bebidas,4700.0,2,9400.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-27 13:09:03.045284,133630,Café Origen Quindío,Café Caliente,4300.0,1,4300.0,Tarjeta Débito,Cundinamarca
+2025-01-27 13:10:19.942060,587993,Milo Frío,Bebidas,5700.0,3,17100.0,Tarjeta Débito,Antioquia
+2025-01-27 13:17:52.853777,213030,Café Origen Quindío,Café Caliente,4900.0,2,9800.0,Daviplata,Bogotá D.C.
+2025-01-27 13:28:36.245197,143511,Capuchino Especial,Café Caliente,5600.0,1,5600.0,Nequi,Bogotá D.C.
+2025-01-27 13:30:29.916749,672306,Tinto Tradicional,Café Caliente,2700.0,2,5400.0,Efectivo,Bogotá D.C.
+2025-01-27 13:51:22.276488,479266,Aromática de Frutas,Bebidas,4800.0,2,9600.0,Tarjeta Débito,Cundinamarca
+2025-01-27 13:51:36.519643,101124,Tiramisú,Postres,8200.0,4,32800.0,Efectivo,Bogotá D.C.
+2025-01-27 17:00:28.965332,230580,Aromática de Frutas,Bebidas,5000.0,2,10000.0,Nequi,Bogotá D.C.
+2025-01-27 17:00:51.115348,727479,Calentado Paisa,Desayunos,13500.0,2,27000.0,Efectivo,Bogotá D.C.
+2025-01-27 17:07:04.739034,761931,Changua Bogotana,Desayunos,8000.0,3,24000.0,Nequi,Antioquia
+2025-01-27 17:12:13.146681,769842,Tiramisú,Postres,8800.0,5,44000.0,Daviplata,Bogotá D.C.
+2025-01-27 17:19:44.283183,605447,Café con Leche,Café Caliente,4100.0,1,4100.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-27 17:22:32.016941,623076,Macchiato,Café Caliente,5500.0,4,22000.0,Tarjeta Débito,Meta
+2025-01-27 17:26:50.228616,532094,Pan de Bono Fresco,Panadería,2700.0,1,2700.0,Tarjeta Crédito,Meta
+2025-01-27 17:38:18.775215,172335,Torta de Café,Postres,7100.0,1,7100.0,Tarjeta Débito,Meta
+2025-01-27 17:39:02.569078,601919,Changua Bogotana,Desayunos,7400.0,2,14800.0,Nequi,Antioquia
+2025-01-27 17:54:34.307529,987239,Aromática de Frutas,Bebidas,3900.0,4,15600.0,Efectivo,Bogotá D.C.
+2025-01-27 17:59:56.941267,834293,Café Origen Quindío,Café Caliente,5300.0,2,10600.0,Efectivo,Bogotá D.C.
+2025-01-28 07:04:41.938729,452236,Calentado Paisa,Desayunos,13200.0,1,13200.0,Tarjeta Débito,Bogotá D.C.
+2025-01-28 08:01:50.479550,650247,Huevos Pericos,Desayunos,8700.0,2,17400.0,Tarjeta Débito,Bogotá D.C.
+2025-01-28 08:20:43.486948,586868,Aguapanela con Queso,Bebidas,3400.0,1,3400.0,Tarjeta Débito,Valle del Cauca
+2025-01-28 08:23:45.419341,431915,Cold Brew Clásico,Café Frío,6700.0,2,13400.0,Nequi,Bogotá D.C.
+2025-01-28 08:30:33.499405,350211,Huevos Pericos,Desayunos,9600.0,3,28800.0,Tarjeta Débito,Meta
+2025-01-28 08:38:49.680975,28743,Torta de Café,Postres,5800.0,3,17400.0,Nequi,Valle del Cauca
+2025-01-28 08:39:54.120717,368777,Aromática de Frutas,Bebidas,4800.0,1,4800.0,Tarjeta Débito,Bogotá D.C.
+2025-01-28 08:54:04.634687,903137,Huevos Pericos,Desayunos,9800.0,3,29400.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-28 08:55:27.459160,752658,Espresso Doble,Café Caliente,3700.0,3,11100.0,Efectivo,Cundinamarca
+2025-01-28 09:55:35.991574,460637,Aguapanela con Queso,Bebidas,2800.0,5,14000.0,Tarjeta Crédito,Cundinamarca
+2025-01-28 09:59:35.603714,222703,Chocolate Santafereño,Bebidas,4900.0,1,4900.0,Tarjeta Crédito,Cundinamarca
+2025-01-28 13:10:48.798325,692507,Café con Leche,Café Caliente,4000.0,2,8000.0,Tarjeta Crédito,Meta
+2025-01-28 13:11:42.487190,90192,Croissant de Mantequilla,Panadería,3700.0,5,18500.0,Tarjeta Débito,Bogotá D.C.
+2025-01-28 13:16:14.475186,741936,Desayuno Ejecutivo,Desayunos,15500.0,2,31000.0,Tarjeta Débito,Valle del Cauca
+2025-01-28 13:23:55.508378,21588,Granizado de Café,Café Frío,8500.0,5,42500.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-28 13:31:49.675338,333786,Té Chai,Bebidas,5500.0,1,5500.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-28 13:38:18.822618,951736,Croissant de Mantequilla,Panadería,4100.0,1,4100.0,Tarjeta Débito,Bogotá D.C.
+2025-01-28 13:40:09.480840,892371,Torta de Café,Postres,6700.0,4,26800.0,Daviplata,Tolima
+2025-01-28 13:54:10.111476,391590,Croissant de Mantequilla,Panadería,3800.0,3,11400.0,Nequi,Antioquia
+2025-01-28 14:23:10.062385,259995,Torta de Café,Postres,7300.0,2,14600.0,Tarjeta Débito,Meta
+2025-01-28 17:09:21.871854,417033,Calentado Paisa,Desayunos,14600.0,1,14600.0,Tarjeta Débito,Bogotá D.C.
+2025-01-28 17:10:15.804850,636881,Brownie con Helado,Postres,5800.0,1,5800.0,Efectivo,Tolima
+2025-01-28 17:15:52.092528,973284,Pan de Bono Fresco,Panadería,3200.0,2,6400.0,Efectivo,Valle del Cauca
+2025-01-28 17:15:57.611734,278633,Changua Bogotana,Desayunos,7200.0,2,14400.0,Tarjeta Débito,Bogotá D.C.
+2025-01-28 17:16:38.152188,398390,Milo Frío,Bebidas,5600.0,1,5600.0,Tarjeta Débito,Bogotá D.C.
+2025-01-28 17:55:03.857243,229290,Flan de Caramelo,Postres,5200.0,1,5200.0,Nequi,Bogotá D.C.
+2025-01-28 17:56:53.165950,261615,Changua Bogotana,Desayunos,7200.0,4,28800.0,Daviplata,Antioquia
+2025-01-28 17:59:22.387532,236114,Tiramisú,Postres,9400.0,3,28200.0,Efectivo,Meta
+2025-01-29 07:13:31.704594,660046,Tres Leches Tradicional,Postres,7800.0,1,7800.0,Nequi,Antioquia
+2025-01-29 07:43:30.466197,829960,Aguapanela con Queso,Bebidas,3500.0,2,7000.0,Efectivo,Boyacá
+2025-01-29 08:18:14.521267,961082,Pan de Bono Fresco,Panadería,3500.0,1,3500.0,Tarjeta Débito,Bogotá D.C.
+2025-01-29 08:24:25.163307,53181,Macchiato,Café Caliente,4700.0,2,9400.0,Efectivo,Antioquia
+2025-01-29 08:25:14.788166,60349,Té Chai,Bebidas,6000.0,1,6000.0,Tarjeta Débito,Meta
+2025-01-29 08:30:21.629623,816667,Changua Bogotana,Desayunos,7100.0,2,14200.0,Nequi,Cundinamarca
+2025-01-29 08:33:46.516855,953511,Café Campesino,Café Caliente,2600.0,2,5200.0,Tarjeta Débito,Valle del Cauca
+2025-01-29 08:35:37.880768,511840,Malteada de Café,Café Frío,9100.0,2,18200.0,Tarjeta Débito,Valle del Cauca
+2025-01-29 08:51:00.728627,709490,Cheesecake de Café,Postres,8600.0,2,17200.0,Daviplata,Boyacá
+2025-01-29 09:43:45.042345,369811,Aromática de Frutas,Bebidas,4000.0,1,4000.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-29 12:31:55.299229,117269,Torta de Café,Postres,6300.0,2,12600.0,Nequi,Bogotá D.C.
+2025-01-29 13:02:26.344399,235431,Tinto Tradicional,Café Caliente,3100.0,1,3100.0,Tarjeta Débito,Antioquia
+2025-01-29 13:10:58.412516,757792,Flan de Caramelo,Postres,6600.0,4,26400.0,Efectivo,Antioquia
+2025-01-29 13:31:29.707768,192914,Empanada de Queso,Panadería,3200.0,3,9600.0,Efectivo,Bogotá D.C.
+2025-01-29 13:34:01.542600,380826,Cold Brew Clásico,Café Frío,6500.0,2,13000.0,Tarjeta Débito,Bogotá D.C.
+2025-01-29 13:38:50.871006,711414,Espresso Doble,Café Caliente,3100.0,2,6200.0,Tarjeta Débito,Meta
+2025-01-29 13:40:02.572642,275801,Aromática de Frutas,Bebidas,4700.0,2,9400.0,Efectivo,Bogotá D.C.
+2025-01-29 13:44:12.963529,814950,Almojábana Tradicional,Panadería,3300.0,1,3300.0,Daviplata,Bogotá D.C.
+2025-01-29 13:49:59.029499,790110,Chocolate Santafereño,Bebidas,4700.0,1,4700.0,Efectivo,Bogotá D.C.
+2025-01-29 13:55:04.067997,634930,Macchiato,Café Caliente,5600.0,3,16800.0,Nequi,Tolima
+2025-01-29 17:00:28.105265,706741,Huevos Pericos,Desayunos,8400.0,1,8400.0,Tarjeta Crédito,Meta
+2025-01-29 17:00:39.997862,832137,Pastel de Pollo,Panadería,4300.0,4,17200.0,Efectivo,Antioquia
+2025-01-29 17:01:03.555147,594928,Frappé Caramelo,Café Frío,8000.0,3,24000.0,Tarjeta Débito,Bogotá D.C.
+2025-01-29 17:07:16.903061,138087,Latte Helado,Café Frío,7100.0,3,21300.0,Nequi,Bogotá D.C.
+2025-01-29 17:17:40.966070,269570,Capuchino Especial,Café Caliente,6600.0,2,13200.0,Tarjeta Débito,Bogotá D.C.
+2025-01-29 17:31:23.665725,20319,Calentado Paisa,Desayunos,12100.0,4,48400.0,Efectivo,Bogotá D.C.
+2025-01-29 17:36:49.232438,161462,Café con Leche,Café Caliente,4300.0,4,17200.0,Daviplata,Tolima
+2025-01-29 17:50:27.553813,301556,Croissant de Mantequilla,Panadería,4300.0,1,4300.0,Efectivo,Bogotá D.C.
+2025-01-29 17:52:48.871930,331762,Pastel de Pollo,Panadería,4100.0,4,16400.0,Daviplata,Bogotá D.C.
+2025-01-29 17:56:57.799865,298934,Pastel de Pollo,Panadería,4100.0,1,4100.0,Daviplata,Bogotá D.C.
+2025-01-29 18:20:34.058837,504197,Milo Frío,Bebidas,6900.0,1,6900.0,Efectivo,Santander
+2025-01-30 07:36:09.584005,279476,Espresso Doble,Café Caliente,3600.0,4,14400.0,Nequi,Meta
+2025-01-30 08:02:44.661383,969753,Changua Bogotana,Desayunos,8600.0,1,8600.0,Tarjeta Crédito,Cundinamarca
+2025-01-30 08:10:26.702525,167910,Flan de Caramelo,Postres,6900.0,2,13800.0,Daviplata,Cundinamarca
+2025-01-30 08:13:47.856794,761548,Pan de Chocolate,Panadería,3300.0,1,3300.0,Efectivo,Bogotá D.C.
+2025-01-30 08:16:22.104194,71623,Café con Leche,Café Caliente,4100.0,1,4100.0,Tarjeta Débito,Cundinamarca
+2025-01-30 08:20:22.121279,760887,Aguapanela con Queso,Bebidas,2800.0,5,14000.0,Nequi,Tolima
+2025-01-30 08:23:26.626316,706272,Jugo Natural de Temporada,Bebidas,4800.0,1,4800.0,Tarjeta Crédito,Antioquia
+2025-01-30 08:30:02.676558,248115,Té Chai,Bebidas,5600.0,5,28000.0,Tarjeta Débito,Santander
+2025-01-30 08:41:19.160326,101442,Café Campesino,Café Caliente,2500.0,2,5000.0,Tarjeta Crédito,Boyacá
+2025-01-30 08:42:28.375535,931585,Pan de Bono Fresco,Panadería,3400.0,2,6800.0,Efectivo,Antioquia
+2025-01-30 08:46:57.041552,461988,Tres Leches Tradicional,Postres,6700.0,3,20100.0,Daviplata,Santander
+2025-01-30 08:57:45.113096,556855,Empanada de Queso,Panadería,3000.0,3,9000.0,Daviplata,Valle del Cauca
+2025-01-30 09:21:29.687160,764706,Aguapanela con Queso,Bebidas,3200.0,4,12800.0,Tarjeta Débito,Bogotá D.C.
+2025-01-30 09:22:08.042545,861681,Desayuno Ejecutivo,Desayunos,15400.0,4,61600.0,Tarjeta Débito,Bogotá D.C.
+2025-01-30 09:32:00.616008,377671,Calentado Paisa,Desayunos,14400.0,2,28800.0,Tarjeta Débito,Valle del Cauca
+2025-01-30 13:12:17.119300,135404,Tinto Tradicional,Café Caliente,3100.0,3,9300.0,Nequi,Santander
+2025-01-30 13:16:08.514785,259252,Café Helado,Café Frío,6100.0,2,12200.0,Efectivo,Cundinamarca
+2025-01-30 13:22:31.961304,545764,Tamal Tolimense,Desayunos,11800.0,2,23600.0,Efectivo,Boyacá
+2025-01-30 13:26:42.011253,843295,Té Chai,Bebidas,5600.0,4,22400.0,Tarjeta Crédito,Valle del Cauca
+2025-01-30 13:29:01.252174,668360,Pan de Chocolate,Panadería,3700.0,4,14800.0,Nequi,Santander
+2025-01-30 13:30:34.311054,472942,Croissant de Mantequilla,Panadería,4100.0,4,16400.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-30 13:37:13.467780,374042,Frappé Caramelo,Café Frío,8800.0,2,17600.0,Efectivo,Valle del Cauca
+2025-01-30 13:39:16.454692,251029,Pan de Chocolate,Panadería,3300.0,4,13200.0,Efectivo,Bogotá D.C.
+2025-01-30 13:59:54.717020,936127,Café Origen Quindío,Café Caliente,4100.0,1,4100.0,Tarjeta Débito,Boyacá
+2025-01-30 16:20:28.154728,5803,Té Chai,Bebidas,5200.0,2,10400.0,Efectivo,Santander
+2025-01-30 17:04:45.678030,281769,Tamal Tolimense,Desayunos,10200.0,2,20400.0,Efectivo,Valle del Cauca
+2025-01-30 17:12:32.212263,945997,Tamal Tolimense,Desayunos,10100.0,4,40400.0,Tarjeta Crédito,Santander
+2025-01-30 17:21:34.300110,132249,Changua Bogotana,Desayunos,7500.0,1,7500.0,Nequi,Antioquia
+2025-01-30 17:28:28.431054,26878,Changua Bogotana,Desayunos,7500.0,2,15000.0,Tarjeta Débito,Bogotá D.C.
+2025-01-30 17:40:17.705637,284697,Pan de Bono Fresco,Panadería,2900.0,1,2900.0,Efectivo,Bogotá D.C.
+2025-01-30 17:41:16.427597,123478,Latte Helado,Café Frío,7800.0,5,39000.0,Efectivo,Bogotá D.C.
+2025-01-30 17:49:05.698246,398205,Macchiato,Café Caliente,5100.0,3,15300.0,Efectivo,Cundinamarca
+2025-01-30 18:48:34.121370,898801,Croissant de Mantequilla,Panadería,4200.0,4,16800.0,Tarjeta Débito,Santander
+2025-01-31 07:13:10.254537,462384,Tamal Tolimense,Desayunos,11200.0,3,33600.0,Tarjeta Crédito,Santander
+2025-01-31 07:18:40.281792,931134,Flan de Caramelo,Postres,5600.0,1,5600.0,Efectivo,Santander
+2025-01-31 08:16:48.065345,315417,Changua Bogotana,Desayunos,7300.0,1,7300.0,Daviplata,Antioquia
+2025-01-31 08:22:22.012400,205021,Frappé Caramelo,Café Frío,7100.0,4,28400.0,Tarjeta Débito,Bogotá D.C.
+2025-01-31 08:31:56.693893,658874,Empanada de Queso,Panadería,3300.0,3,9900.0,Tarjeta Débito,Bogotá D.C.
+2025-01-31 08:44:49.906776,611761,Café Campesino,Café Caliente,2200.0,4,8800.0,Tarjeta Débito,Bogotá D.C.
+2025-01-31 08:45:00.272046,310949,Chocolate Santafereño,Bebidas,6300.0,1,6300.0,Tarjeta Débito,Bogotá D.C.
+2025-01-31 08:49:13.419111,233873,Jugo Natural de Temporada,Bebidas,4900.0,1,4900.0,Nequi,Cundinamarca
+2025-01-31 08:50:14.040886,126431,Pastel de Pollo,Panadería,4300.0,4,17200.0,Daviplata,Bogotá D.C.
+2025-01-31 08:51:26.244725,829792,Chocolate Santafereño,Bebidas,4700.0,1,4700.0,Tarjeta Débito,Santander
+2025-01-31 08:56:18.550841,100892,Cold Brew Clásico,Café Frío,5800.0,2,11600.0,Tarjeta Crédito,Boyacá
+2025-01-31 09:55:31.166158,279513,Huevos Pericos,Desayunos,9500.0,3,28500.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-31 12:26:52.101194,368699,Macchiato,Café Caliente,4700.0,4,18800.0,Tarjeta Débito,Tolima
+2025-01-31 13:07:08.146165,507193,Café Helado,Café Frío,7200.0,3,21600.0,Efectivo,Santander
+2025-01-31 13:07:32.835131,282543,Tres Leches Tradicional,Postres,7600.0,1,7600.0,Tarjeta Débito,Antioquia
+2025-01-31 13:16:51.098150,624937,Capuchino Especial,Café Caliente,5900.0,2,11800.0,Tarjeta Crédito,Meta
+2025-01-31 13:17:52.079999,585865,Huevos Pericos,Desayunos,9500.0,1,9500.0,Tarjeta Crédito,Bogotá D.C.
+2025-01-31 13:40:16.381587,302312,Café Campesino,Café Caliente,2400.0,2,4800.0,Efectivo,Valle del Cauca
+2025-01-31 13:42:59.630254,100963,Huevos Pericos,Desayunos,10000.0,3,30000.0,Tarjeta Débito,Cundinamarca
+2025-01-31 13:46:37.706672,140635,Changua Bogotana,Desayunos,7800.0,1,7800.0,Tarjeta Débito,Bogotá D.C.
+2025-01-31 13:52:19.737139,349420,Empanada de Queso,Panadería,3300.0,2,6600.0,Tarjeta Débito,Bogotá D.C.
+2025-01-31 13:57:12.688861,849473,Frappé Caramelo,Café Frío,8500.0,5,42500.0,Efectivo,Santander
+2025-01-31 13:57:56.867388,487775,Aguapanela con Queso,Bebidas,3100.0,2,6200.0,Efectivo,Antioquia
+2025-01-31 14:27:45.196394,595330,Té Chai,Bebidas,5700.0,1,5700.0,Tarjeta Débito,Bogotá D.C.
+2025-01-31 14:29:54.085191,800260,Desayuno Ejecutivo,Desayunos,17400.0,2,34800.0,Efectivo,Meta
+2025-01-31 14:58:19.461838,62360,Granizado de Café,Café Frío,8500.0,4,34000.0,Efectivo,Meta
+2025-01-31 17:01:07.163675,191988,Croissant de Mantequilla,Panadería,3700.0,1,3700.0,Tarjeta Débito,Cundinamarca
+2025-01-31 17:05:16.121552,542672,Frappé Caramelo,Café Frío,8200.0,4,32800.0,Tarjeta Crédito,Meta
+2025-01-31 17:15:50.469385,279482,Aguapanela con Queso,Bebidas,2700.0,1,2700.0,Tarjeta Débito,Cundinamarca
+2025-01-31 17:33:17.346722,661460,Café con Leche,Café Caliente,3900.0,2,7800.0,Efectivo,Valle del Cauca
+2025-01-31 17:36:17.534508,342022,Pan de Yuca,Panadería,3300.0,2,6600.0,Nequi,Bogotá D.C.
+2025-01-31 17:38:06.648973,997591,Empanada de Queso,Panadería,3800.0,4,15200.0,Tarjeta Débito,Meta
+2025-01-31 17:57:44.354763,538115,Chocolate Santafereño,Bebidas,5700.0,3,17100.0,Efectivo,Bogotá D.C.
+2025-01-31 17:58:18.838189,857345,Pan de Yuca,Panadería,2700.0,4,10800.0,Efectivo,Cundinamarca
+2025-02-01 07:14:26.090269,392250,Espresso Doble,Café Caliente,3000.0,1,3000.0,Tarjeta Crédito,Tolima
+2025-02-01 07:19:22.864270,258496,Tamal Tolimense,Desayunos,9700.0,2,19400.0,Nequi,Cundinamarca
+2025-02-01 07:40:08.507829,626413,Huevos Pericos,Desayunos,8400.0,3,25200.0,Tarjeta Débito,Cundinamarca
+2025-02-01 08:03:12.303504,901304,Café Helado,Café Frío,7400.0,3,22200.0,Nequi,Valle del Cauca
+2025-02-01 08:13:38.939892,419943,Té Chai,Bebidas,5500.0,3,16500.0,Daviplata,Bogotá D.C.
+2025-02-01 08:14:03.946628,574827,Flan de Caramelo,Postres,6400.0,2,12800.0,Tarjeta Débito,Valle del Cauca
+2025-02-01 08:20:03.987049,894,Desayuno Ejecutivo,Desayunos,16900.0,2,33800.0,Efectivo,Santander
+2025-02-01 08:23:12.941442,640948,Granizado de Café,Café Frío,6600.0,1,6600.0,Efectivo,Valle del Cauca
+2025-02-01 08:23:13.008907,341516,Almojábana Tradicional,Panadería,3200.0,2,6400.0,Tarjeta Crédito,Bogotá D.C.
+2025-02-01 08:28:09.675539,227071,Pan de Chocolate,Panadería,3700.0,1,3700.0,Tarjeta Débito,Meta
+2025-02-01 08:34:15.630453,214197,Capuchino Especial,Café Caliente,5700.0,1,5700.0,Tarjeta Débito,Antioquia
+2025-02-01 08:38:40.850159,711747,Pan de Bono Fresco,Panadería,2900.0,2,5800.0,Tarjeta Crédito,Meta
+2025-02-01 08:40:00.112645,653666,Cold Brew Clásico,Café Frío,6400.0,2,12800.0,Efectivo,Bogotá D.C.
+2025-02-01 08:42:32.089788,28089,Changua Bogotana,Desayunos,8000.0,2,16000.0,Efectivo,Bogotá D.C.
+2025-02-01 08:43:29.938197,492060,Milo Frío,Bebidas,5800.0,5,29000.0,Efectivo,Bogotá D.C.
+2025-02-01 08:43:32.893933,508932,Calentado Paisa,Desayunos,13600.0,1,13600.0,Tarjeta Crédito,Bogotá D.C.
+2025-02-01 08:51:21.775779,590242,Cheesecake de Café,Postres,8400.0,1,8400.0,Tarjeta Crédito,Bogotá D.C.
+2025-02-01 08:52:15.211021,954804,Malteada de Café,Café Frío,9300.0,2,18600.0,Tarjeta Débito,Bogotá D.C.
+2025-02-01 08:55:55.364633,365442,Café Helado,Café Frío,6200.0,1,6200.0,Tarjeta Débito,Bogotá D.C.
+2025-02-01 08:56:23.200293,193324,Milo Frío,Bebidas,6000.0,5,30000.0,Tarjeta Crédito,Bogotá D.C.
+2025-02-01 08:57:18.325285,28196,Café Helado,Café Frío,6300.0,2,12600.0,Efectivo,Boyacá
+2025-02-01 12:22:08.608985,870546,Frappé Caramelo,Café Frío,8700.0,1,8700.0,Daviplata,Meta
+2025-02-01 13:15:24.876347,877366,Jugo Natural de Temporada,Bebidas,4700.0,1,4700.0,Daviplata,Bogotá D.C.
+2025-02-01 13:24:34.082209,247107,Tinto Tradicional,Café Caliente,2600.0,1,2600.0,Efectivo,Bogotá D.C.
+2025-02-01 13:25:32.213176,968644,Macchiato,Café Caliente,5100.0,5,25500.0,Tarjeta Crédito,Boyacá
+2025-02-01 13:33:10.767074,25527,Flan de Caramelo,Postres,6900.0,1,6900.0,Tarjeta Débito,Meta
+2025-02-01 13:43:50.774180,208295,Torta de Café,Postres,7300.0,2,14600.0,Tarjeta Crédito,Bogotá D.C.
+2025-02-01 13:45:49.799717,803052,Tamal Tolimense,Desayunos,10900.0,4,43600.0,Tarjeta Crédito,Bogotá D.C.
+2025-02-01 13:47:39.739058,141300,Chocolate Santafereño,Bebidas,5900.0,2,11800.0,Efectivo,Meta
+2025-02-01 16:55:04.518976,531630,Capuchino Especial,Café Caliente,6700.0,2,13400.0,Tarjeta Crédito,Bogotá D.C.
+2025-02-01 17:07:20.994406,194435,Aguapanela con Queso,Bebidas,3200.0,3,9600.0,Tarjeta Débito,Cundinamarca
+2025-02-01 17:20:04.453902,535294,Pan de Chocolate,Panadería,3900.0,1,3900.0,Efectivo,Bogotá D.C.
+2025-02-01 17:27:07.756331,765569,Calentado Paisa,Desayunos,12800.0,1,12800.0,Nequi,Bogotá D.C.
+2025-02-01 17:28:11.602517,463333,Frappé Caramelo,Café Frío,8300.0,4,33200.0,Tarjeta Débito,Meta
+2025-02-01 17:28:38.613752,53257,Café Origen Quindío,Café Caliente,5300.0,4,21200.0,Tarjeta Crédito,Cundinamarca
+2025-02-01 17:46:29.462010,341493,Pan de Chocolate,Panadería,3700.0,3,11100.0,Daviplata,Bogotá D.C.
+2025-02-01 17:54:38.248741,818746,Cheesecake de Café,Postres,8200.0,2,16400.0,Daviplata,Valle del Cauca
+2025-02-01 17:59:33.819924,243352,Tinto Tradicional,Café Caliente,3100.0,1,3100.0,Tarjeta Débito,Bogotá D.C.
+2025-02-01 18:11:30.364738,853531,Chocolate Santafereño,Bebidas,5900.0,3,17700.0,Tarjeta Débito,Boyacá
+2025-02-02 08:00:16.127636,773312,Malteada de Café,Café Frío,8200.0,4,32800.0,Efectivo,Boyacá
+2025-02-02 08:00:58.601822,74334,Cold Brew Clásico,Café Frío,6200.0,1,6200.0,Tarjeta Crédito,Bogotá D.C.
+2025-02-02 08:01:19.271587,162872,Milo Frío,Bebidas,5100.0,1,5100.0,Tarjeta Débito,Bogotá D.C.
+2025-02-02 08:03:05.916046,304888,Tiramisú,Postres,7700.0,2,15400.0,Daviplata,Antioquia
+2025-02-02 08:04:37.076567,33391,Flan de Caramelo,Postres,5500.0,4,22000.0,Nequi,Bogotá D.C.
+2025-02-02 08:05:56.633906,233496,Chocolate Santafereño,Bebidas,5800.0,1,5800.0,Tarjeta Débito,Santander
+2025-02-02 08:14:24.899237,267654,Brownie con Helado,Postres,5800.0,3,17400.0,Tarjeta Débito,Santander
+2025-02-02 08:22:51.357216,501938,Changua Bogotana,Desayunos,8700.0,2,17400.0,Tarjeta Débito,Bogotá D.C.
+2025-02-02 08:25:25.230969,478263,Empanada de Queso,Panadería,3500.0,3,10500.0,Tarjeta Débito,Cundinamarca
+2025-02-02 08:28:54.209327,800988,Tiramisú,Postres,7700.0,2,15400.0,Tarjeta Débito,Cundinamarca
+2025-02-02 08:34:38.478633,395427,Milo Frío,Bebidas,6000.0,2,12000.0,Daviplata,Bogotá D.C.
+2025-02-02 08:35:39.982797,429333,Changua Bogotana,Desayunos,8700.0,2,17400.0,Tarjeta Débito,Cundinamarca
+2025-02-02 08:52:12.662374,497302,Pan de Yuca,Panadería,2700.0,2,5400.0,Tarjeta Débito,Bogotá D.C.
+2025-02-02 08:55:04.494251,972163,Brownie con Helado,Postres,4700.0,1,4700.0,Tarjeta Crédito,Bogotá D.C.
+2025-02-02 09:00:24.939984,824621,Chocolate Santafereño,Bebidas,5100.0,1,5100.0,Nequi,Santander
+2025-02-02 09:31:30.533179,228287,Flan de Caramelo,Postres,5500.0,4,22000.0,Tarjeta Crédito,Valle del Cauca
+2025-02-02 13:01:22.379340,172308,Capuchino Especial,Café Caliente,6000.0,1,6000.0,Daviplata,Santander
+2025-02-02 13:02:48.823164,562102,Aguapanela con Queso,Bebidas,3000.0,4,12000.0,Nequi,Santander
+2025-02-02 13:12:40.883342,960003,Changua Bogotana,Desayunos,7600.0,3,22800.0,Tarjeta Débito,Valle del Cauca
+2025-02-02 13:13:55.523465,601767,Empanada de Queso,Panadería,3000.0,1,3000.0,Efectivo,Bogotá D.C.
+2025-02-02 13:14:45.190074,598290,Café Helado,Café Frío,6100.0,4,24400.0,Tarjeta Débito,Boyacá
+2025-02-02 13:14:55.157786,424785,Café con Leche,Café Caliente,4400.0,3,13200.0,Daviplata,Bogotá D.C.
+2025-02-02 13:22:48.586846,338768,Jugo Natural de Temporada,Bebidas,6100.0,2,12200.0,Nequi,Bogotá D.C.
+2025-02-02 13:24:15.746345,262964,Café Origen Quindío,Café Caliente,4400.0,1,4400.0,Tarjeta Débito,Meta
+2025-02-02 13:59:59.818700,827488,Chocolate Santafereño,Bebidas,4900.0,2,9800.0,Efectivo,Bogotá D.C.
+2025-02-02 17:11:42.717489,811561,Empanada de Queso,Panadería,3200.0,2,6400.0,Tarjeta Crédito,Bogotá D.C.
+2025-02-02 17:11:43.627222,411184,Malteada de Café,Café Frío,8900.0,1,8900.0,Efectivo,Antioquia
+2025-02-02 17:13:56.236868,540660,Macchiato,Café Caliente,5600.0,3,16800.0,Efectivo,Cundinamarca
+2025-02-02 17:21:45.925354,666281,Té Chai,Bebidas,5900.0,1,5900.0,Efectivo,Meta
+2025-02-02 17:32:11.846454,691824,Calentado Paisa,Desayunos,12900.0,1,12900.0,Tarjeta Débito,Meta
+2025-02-02 17:40:39.833016,131255,Jugo Natural de Temporada,Bebidas,5700.0,2,11400.0,Efectivo,Valle del Cauca
+2025-02-02 17:44:20.176474,693098,Flan de Caramelo,Postres,6600.0,3,19800.0,Nequi,Meta
+2025-02-02 17:55:15.500412,289969,Calentado Paisa,Desayunos,14100.0,5,70500.0,Efectivo,Bogotá D.C.
+2025-02-02 17:58:04.866696,563253,Cold Brew Clásico,Café Frío,6500.0,1,6500.0,Efectivo,Bogotá D.C.
+2025-02-03 07:35:08.216954,986030,Aguapanela con Queso,Bebidas,2900.0,1,2900.0,Efectivo,Bogotá D.C.
+2025-02-03 08:09:17.881661,537561,Espresso Doble,Café Caliente,3500.0,1,3500.0,Tarjeta Débito,Valle del Cauca
+2025-02-03 08:09:25.951493,892987,Malteada de Café,Café Frío,8100.0,3,24300.0,Daviplata,Tolima
+2025-02-03 08:12:27.674055,808440,Pastel de Pollo,Panadería,4900.0,2,9800.0,Nequi,Bogotá D.C.
+2025-02-03 08:15:10.245584,189690,Capuchino Especial,Café Caliente,5700.0,1,5700.0,Daviplata,Bogotá D.C.
+2025-02-03 08:19:27.035201,892482,Espresso Doble,Café Caliente,3400.0,4,13600.0,Efectivo,Antioquia
+2025-02-03 08:19:34.888797,757446,Huevos Pericos,Desayunos,9100.0,5,45500.0,Tarjeta Débito,Bogotá D.C.
+2025-02-03 08:24:11.531360,948751,Malteada de Café,Café Frío,8300.0,1,8300.0,Tarjeta Crédito,Bogotá D.C.
+2025-02-03 08:25:47.651709,764201,Aromática de Frutas,Bebidas,4000.0,3,12000.0,Tarjeta Crédito,Cundinamarca
+2025-02-03 08:31:10.940145,396058,Cheesecake de Café,Postres,7600.0,1,7600.0,Tarjeta Débito,Bogotá D.C.
+2025-02-03 08:31:24.852646,972395,Capuchino Especial,Café Caliente,6900.0,4,27600.0,Tarjeta Débito,Tolima
+2025-02-03 08:41:45.049433,851942,Cold Brew Clásico,Café Frío,6200.0,2,12400.0,Efectivo,Cundinamarca
+2025-02-03 08:57:12.843742,498963,Empanada de Queso,Panadería,3400.0,3,10200.0,Efectivo,Bogotá D.C.
+2025-02-03 08:58:30.396890,664945,Cheesecake de Café,Postres,7600.0,1,7600.0,Tarjeta Crédito,Bogotá D.C.
+2025-02-03 09:21:51.892029,950904,Aguapanela con Queso,Bebidas,3400.0,5,17000.0,Nequi,Tolima
+2025-02-03 12:11:29.283868,923496,Tinto Tradicional,Café Caliente,3200.0,2,6400.0,Nequi,Boyacá
+2025-02-03 13:01:10.635346,215094,Frappé Caramelo,Café Frío,8000.0,3,24000.0,Efectivo,Meta
+2025-02-03 13:04:23.492771,75682,Café Origen Quindío,Café Caliente,4600.0,4,18400.0,Nequi,Cundinamarca
+2025-02-03 13:08:57.931251,977600,Cold Brew Clásico,Café Frío,6300.0,2,12600.0,Efectivo,Bogotá D.C.
+2025-02-03 13:32:01.191861,41495,Tamal Tolimense,Desayunos,10400.0,1,10400.0,Efectivo,Meta
+2025-02-03 13:34:53.739335,355900,Tiramisú,Postres,8200.0,1,8200.0,Tarjeta Crédito,Boyacá
+2025-02-03 17:10:48.242349,167343,Café con Leche,Café Caliente,4000.0,2,8000.0,Tarjeta Débito,Bogotá D.C.
+2025-02-03 17:22:09.790723,3905,Granizado de Café,Café Frío,8300.0,4,33200.0,Efectivo,Antioquia
+2025-02-03 17:28:16.841189,991554,Cold Brew Clásico,Café Frío,6800.0,1,6800.0,Efectivo,Santander
+2025-02-03 17:38:25.360818,453814,Aguapanela con Queso,Bebidas,3100.0,5,15500.0,Tarjeta Débito,Valle del Cauca
+2025-02-03 17:40:41.171569,848554,Espresso Doble,Café Caliente,3000.0,1,3000.0,Tarjeta Débito,Bogotá D.C.
+2025-02-03 17:43:10.003844,395743,Aguapanela con Queso,Bebidas,2600.0,2,5200.0,Efectivo,Bogotá D.C.
+2025-02-03 17:49:42.615421,325258,Cold Brew Clásico,Café Frío,7200.0,4,28800.0,Tarjeta Débito,Bogotá D.C.
+2025-02-03 17:54:03.985124,545071,Torta de Café,Postres,7000.0,1,7000.0,Tarjeta Débito,Bogotá D.C.
+2025-02-03 17:56:02.627881,411852,Macchiato,Café Caliente,5800.0,2,11600.0,Tarjeta Débito,Antioquia
+2025-02-03 17:59:37.776387,462806,Tres Leches Tradicional,Postres,6800.0,2,13600.0,Tarjeta Débito,Bogotá D.C.
+2025-02-03 18:38:26.621485,108035,Cheesecake de Café,Postres,8200.0,2,16400.0,Nequi,Cundinamarca
+2025-02-04 07:21:59.218405,828663,Cheesecake de Café,Postres,7800.0,1,7800.0,Nequi,Antioquia
+2025-02-04 07:41:44.422274,598790,Flan de Caramelo,Postres,5500.0,2,11000.0,Nequi,Meta
+2025-02-04 08:01:40.679618,669509,Empanada de Queso,Panadería,3600.0,1,3600.0,Efectivo,Bogotá D.C.
+2025-02-04 08:03:44.055532,867688,Chocolate Santafereño,Bebidas,5100.0,1,5100.0,Tarjeta Débito,Cundinamarca
+2025-02-04 08:11:25.017435,128245,Café Origen Quindío,Café Caliente,4800.0,1,4800.0,Tarjeta Débito,Bogotá D.C.
+2025-02-04 08:21:29.539179,302352,Tamal Tolimense,Desayunos,10000.0,2,20000.0,Daviplata,Tolima
+2025-02-04 08:26:46.600198,846920,Café Origen Quindío,Café Caliente,4600.0,5,23000.0,Tarjeta Crédito,Bogotá D.C.
+2025-02-04 08:29:46.041593,805435,Café con Leche,Café Caliente,4200.0,1,4200.0,Tarjeta Crédito,Santander
+2025-02-04 08:30:59.846143,647787,Pan de Yuca,Panadería,2900.0,1,2900.0,Daviplata,Bogotá D.C.
+2025-02-04 08:33:58.167635,214598,Latte Helado,Café Frío,7500.0,1,7500.0,Efectivo,Bogotá D.C.
+2025-02-04 08:35:33.076313,996021,Tres Leches Tradicional,Postres,7900.0,1,7900.0,Tarjeta Débito,Meta
+2025-02-04 08:38:30.379239,855107,Pan de Yuca,Panadería,3100.0,5,15500.0,Nequi,Valle del Cauca
+2025-02-04 08:40:38.967232,594086,Cheesecake de Café,Postres,8600.0,4,34400.0,Nequi,Bogotá D.C.
+2025-02-04 08:45:06.694607,363202,Calentado Paisa,Desayunos,13300.0,5,66500.0,Efectivo,Meta
+2025-02-04 08:57:32.945754,429700,Macchiato,Café Caliente,4900.0,1,4900.0,Tarjeta Débito,Antioquia
+2025-02-04 08:57:39.514062,102696,Pan de Yuca,Panadería,2800.0,3,8400.0,Tarjeta Débito,Valle del Cauca
+2025-02-04 12:43:12.459467,459082,Huevos Pericos,Desayunos,8100.0,2,16200.0,Tarjeta Débito,Meta
+2025-02-04 13:29:22.302912,935095,Desayuno Ejecutivo,Desayunos,16100.0,1,16100.0,Efectivo,Santander
+2025-02-04 13:35:26.185159,56520,Chocolate Santafereño,Bebidas,6500.0,2,13000.0,Efectivo,Bogotá D.C.
+2025-02-04 13:39:27.050680,950569,Aromática de Frutas,Bebidas,3900.0,3,11700.0,Tarjeta Débito,Antioquia
+2025-02-04 13:42:33.789131,263818,Café Origen Quindío,Café Caliente,4300.0,2,8600.0,Efectivo,Valle del Cauca
+2025-02-04 16:51:12.682920,72032,Changua Bogotana,Desayunos,8800.0,4,35200.0,Tarjeta Crédito,Bogotá D.C.
+2025-02-04 17:01:56.181578,596270,Brownie con Helado,Postres,5900.0,1,5900.0,Efectivo,Bogotá D.C.
+2025-02-04 17:02:29.323829,399284,Chocolate Santafereño,Bebidas,5100.0,1,5100.0,Tarjeta Crédito,Cundinamarca
+2025-02-04 17:25:58.164202,376173,Granizado de Café,Café Frío,6900.0,4,27600.0,Efectivo,Tolima
+2025-02-04 17:34:31.882107,28666,Tiramisú,Postres,8400.0,2,16800.0,Tarjeta Débito,Bogotá D.C.
+2025-02-04 17:41:43.864745,485897,Tiramisú,Postres,8600.0,1,8600.0,Daviplata,Bogotá D.C.
+2025-02-04 17:50:25.197686,918858,Malteada de Café,Café Frío,7800.0,2,15600.0,Nequi,Bogotá D.C.
+2025-02-05 07:19:37.797379,850982,Tiramisú,Postres,7700.0,5,38500.0,Efectivo,Tolima
+2025-02-05 08:01:38.190821,590628,Tamal Tolimense,Desayunos,10100.0,2,20200.0,Tarjeta Débito,Bogotá D.C.
+2025-02-05 08:05:11.783964,706485,Cold Brew Clásico,Café Frío,6400.0,1,6400.0,Efectivo,Antioquia
+2025-02-05 08:05:48.121037,430006,Desayuno Ejecutivo,Desayunos,16600.0,1,16600.0,Tarjeta Débito,Boyacá
+2025-02-05 08:11:29.691986,196665,Pan de Bono Fresco,Panadería,2900.0,2,5800.0,Tarjeta Crédito,Meta
+2025-02-05 08:21:37.441436,491897,Empanada de Queso,Panadería,3500.0,3,10500.0,Tarjeta Crédito,Antioquia
+2025-02-05 08:22:40.645709,297617,Torta de Café,Postres,6300.0,2,12600.0,Tarjeta Débito,Santander
+2025-02-05 08:25:49.134183,272007,Croissant de Mantequilla,Panadería,3800.0,3,11400.0,Tarjeta Débito,Bogotá D.C.
+2025-02-05 08:31:12.959779,392894,Granizado de Café,Café Frío,8000.0,3,24000.0,Tarjeta Crédito,Cundinamarca
+2025-02-05 08:41:03.596388,775432,Brownie con Helado,Postres,4800.0,2,9600.0,Tarjeta Débito,Meta
+2025-02-05 08:54:14.608791,550373,Milo Frío,Bebidas,5800.0,1,5800.0,Daviplata,Tolima
+2025-02-05 08:55:21.435141,393467,Desayuno Ejecutivo,Desayunos,17100.0,1,17100.0,Efectivo,Bogotá D.C.
+2025-02-05 08:57:01.232537,337132,Changua Bogotana,Desayunos,7000.0,2,14000.0,Tarjeta Crédito,Meta
+2025-02-05 08:58:08.024900,649340,Cheesecake de Café,Postres,8100.0,1,8100.0,Tarjeta Crédito,Tolima
+2025-02-05 09:34:29.718447,611005,Calentado Paisa,Desayunos,13400.0,2,26800.0,Efectivo,Meta
+2025-02-05 13:00:34.883632,568978,Empanada de Queso,Panadería,3100.0,4,12400.0,Tarjeta Crédito,Meta
+2025-02-05 13:18:47.774380,122014,Croissant de Mantequilla,Panadería,3600.0,1,3600.0,Efectivo,Santander
+2025-02-05 13:19:32.201551,404573,Pastel de Pollo,Panadería,4200.0,1,4200.0,Efectivo,Boyacá
+2025-02-05 13:25:41.817930,536240,Café Campesino,Café Caliente,2800.0,2,5600.0,Nequi,Meta
+2025-02-05 13:28:31.820016,556347,Tiramisú,Postres,7800.0,2,15600.0,Tarjeta Crédito,Bogotá D.C.
+2025-02-05 13:37:08.974462,819992,Almojábana Tradicional,Panadería,2900.0,3,8700.0,Tarjeta Débito,Bogotá D.C.
+2025-02-05 13:48:19.834150,195657,Flan de Caramelo,Postres,5800.0,2,11600.0,Efectivo,Bogotá D.C.
+2025-02-05 14:09:58.168625,128845,Tiramisú,Postres,7700.0,2,15400.0,Tarjeta Débito,Antioquia
+2025-02-05 16:15:14.927488,693123,Tres Leches Tradicional,Postres,8000.0,1,8000.0,Efectivo,Antioquia
+2025-02-05 16:38:56.491008,663274,Tiramisú,Postres,8800.0,5,44000.0,Tarjeta Crédito,Cundinamarca
+2025-02-05 17:02:10.710082,620152,Calentado Paisa,Desayunos,14100.0,1,14100.0,Tarjeta Débito,Antioquia
+2025-02-05 17:05:48.923088,66109,Pan de Chocolate,Panadería,3200.0,1,3200.0,Tarjeta Crédito,Bogotá D.C.
+2025-02-05 17:10:55.561847,811004,Torta de Café,Postres,6000.0,1,6000.0,Efectivo,Santander
+2025-02-05 17:20:27.623942,975403,Croissant de Mantequilla,Panadería,4200.0,3,12600.0,Daviplata,Valle del Cauca
+2025-02-05 17:42:35.149606,96659,Malteada de Café,Café Frío,7900.0,3,23700.0,Efectivo,Valle del Cauca
+2025-02-05 17:47:34.684126,500625,Almojábana Tradicional,Panadería,3300.0,1,3300.0,Efectivo,Bogotá D.C.
+2025-02-05 17:53:50.809046,742050,Pan de Chocolate,Panadería,3100.0,5,15500.0,Nequi,Boyacá
+2025-02-05 18:15:10.139338,91416,Cold Brew Clásico,Café Frío,5900.0,1,5900.0,Tarjeta Débito,Bogotá D.C.
+2025-02-06 07:10:39.788877,143622,Latte Helado,Café Frío,8100.0,1,8100.0,Efectivo,Bogotá D.C.
+2025-02-06 08:13:14.173711,166074,Croissant de Mantequilla,Panadería,4100.0,1,4100.0,Daviplata,Valle del Cauca
+2025-02-06 08:16:02.302967,387495,Malteada de Café,Café Frío,8100.0,1,8100.0,Nequi,Tolima
+2025-02-06 08:17:07.038865,508262,Pan de Bono Fresco,Panadería,3300.0,2,6600.0,Daviplata,Cundinamarca
+2025-02-06 08:18:27.105748,930160,Tres Leches Tradicional,Postres,7000.0,1,7000.0,Efectivo,Antioquia
+2025-02-06 08:22:34.107855,130519,Tiramisú,Postres,8300.0,4,33200.0,Tarjeta Débito,Santander
+2025-02-06 08:26:03.176434,304276,Café Campesino,Café Caliente,3000.0,1,3000.0,Tarjeta Débito,Meta
+2025-02-06 08:34:04.620762,916785,Pan de Bono Fresco,Panadería,2700.0,2,5400.0,Tarjeta Crédito,Meta
+2025-02-06 08:46:45.922984,848065,Cold Brew Clásico,Café Frío,6900.0,1,6900.0,Tarjeta Débito,Boyacá
+2025-02-06 08:47:55.588721,53664,Frappé Caramelo,Café Frío,8400.0,1,8400.0,Tarjeta Débito,Cundinamarca
+2025-02-06 08:48:39.750657,139848,Frappé Caramelo,Café Frío,8000.0,2,16000.0,Tarjeta Débito,Antioquia
+2025-02-06 08:54:46.151130,551429,Macchiato,Café Caliente,4500.0,1,4500.0,Daviplata,Tolima
+2025-02-06 09:41:43.345171,229506,Jugo Natural de Temporada,Bebidas,6200.0,1,6200.0,Nequi,Bogotá D.C.
+2025-02-06 12:36:21.279882,669541,Empanada de Queso,Panadería,3000.0,4,12000.0,Nequi,Antioquia
+2025-02-06 13:03:15.476227,701887,Espresso Doble,Café Caliente,2900.0,1,2900.0,Tarjeta Crédito,Antioquia
+2025-02-06 13:04:30.521101,557315,Capuchino Especial,Café Caliente,5900.0,5,29500.0,Daviplata,Bogotá D.C.
+2025-02-06 13:11:36.054711,798301,Milo Frío,Bebidas,6800.0,1,6800.0,Daviplata,Meta
+2025-02-06 13:17:03.842232,138282,Frappé Caramelo,Café Frío,8000.0,4,32000.0,Daviplata,Bogotá D.C.
+2025-02-06 13:19:41.569858,780747,Tinto Tradicional,Café Caliente,2800.0,1,2800.0,Efectivo,Bogotá D.C.
+2025-02-06 13:21:39.760598,354716,Latte Helado,Café Frío,6600.0,1,6600.0,Tarjeta Débito,Valle del Cauca
+2025-02-06 13:25:38.725130,250433,Capuchino Especial,Café Caliente,6800.0,1,6800.0,Tarjeta Débito,Cundinamarca
+2025-02-06 13:26:01.218983,568288,Milo Frío,Bebidas,5600.0,1,5600.0,Tarjeta Débito,Meta
+2025-02-06 13:32:31.303158,49209,Cheesecake de Café,Postres,8300.0,2,16600.0,Daviplata,Bogotá D.C.
+2025-02-06 13:37:57.797426,377463,Almojábana Tradicional,Panadería,3100.0,1,3100.0,Tarjeta Crédito,Bogotá D.C.
+2025-02-06 13:39:15.167941,931637,Cold Brew Clásico,Café Frío,5900.0,1,5900.0,Efectivo,Bogotá D.C.
+2025-02-06 13:41:21.077197,405696,Malteada de Café,Café Frío,7800.0,1,7800.0,Tarjeta Crédito,Cundinamarca
+2025-02-06 13:45:51.444713,854240,Pan de Chocolate,Panadería,3100.0,1,3100.0,Nequi,Meta
+2025-02-06 13:53:49.154979,698692,Tiramisú,Postres,7600.0,1,7600.0,Tarjeta Débito,Bogotá D.C.
+2025-02-06 13:53:52.801005,570011,Pan de Bono Fresco,Panadería,2800.0,1,2800.0,Daviplata,Bogotá D.C.
+2025-02-06 16:50:21.988794,327173,Malteada de Café,Café Frío,9400.0,2,18800.0,Tarjeta Débito,Bogotá D.C.
+2025-02-06 17:01:26.938860,579688,Empanada de Queso,Panadería,3800.0,4,15200.0,Tarjeta Débito,Bogotá D.C.
+2025-02-06 17:03:47.665771,506857,Latte Helado,Café Frío,6700.0,2,13400.0,Tarjeta Crédito,Bogotá D.C.
+2025-02-06 17:20:01.477973,701325,Milo Frío,Bebidas,6000.0,1,6000.0,Tarjeta Débito,Bogotá D.C.
+2025-02-06 17:30:25.432182,462904,Brownie con Helado,Postres,5300.0,3,15900.0,Efectivo,Bogotá D.C.
+2025-02-06 17:30:50.523030,779938,Aromática de Frutas,Bebidas,4800.0,3,14400.0,Nequi,Antioquia
+2025-02-06 17:40:48.984648,74195,Changua Bogotana,Desayunos,8200.0,4,32800.0,Efectivo,Meta
+2025-02-06 17:42:36.667024,769561,Huevos Pericos,Desayunos,9500.0,1,9500.0,Daviplata,Valle del Cauca
+2025-02-06 17:44:39.079506,151214,Café con Leche,Café Caliente,4000.0,1,4000.0,Tarjeta Débito,Tolima
+2025-02-06 17:51:10.933399,492067,Desayuno Ejecutivo,Desayunos,15800.0,1,15800.0,Tarjeta Crédito,Meta
+2025-02-06 17:59:53.442290,753868,Changua Bogotana,Desayunos,8300.0,2,16600.0,Efectivo,Bogotá D.C.
+2025-02-06 18:26:06.080489,131586,Capuchino Especial,Café Caliente,6600.0,3,19800.0,Tarjeta Crédito,Bogotá D.C.
+2025-02-06 18:40:01.110938,393485,Chocolate Santafereño,Bebidas,5500.0,2,11000.0,Efectivo,Bogotá D.C.
+2025-02-07 08:10:26.907351,131420,Pan de Yuca,Panadería,2900.0,1,2900.0,Tarjeta Débito,Meta
+2025-02-07 08:37:03.919986,721761,Pan de Chocolate,Panadería,3300.0,2,6600.0,Tarjeta Crédito,Cundinamarca
+2025-02-07 08:37:39.615076,713242,Café Helado,Café Frío,7200.0,2,14400.0,Tarjeta Crédito,Valle del Cauca
+2025-02-07 08:41:54.079011,596094,Café Origen Quindío,Café Caliente,4700.0,1,4700.0,Tarjeta Crédito,Meta
+2025-02-07 08:43:36.629847,64104,Torta de Café,Postres,7000.0,1,7000.0,Efectivo,Bogotá D.C.
+2025-02-07 08:50:20.492041,591574,Chocolate Santafereño,Bebidas,5900.0,1,5900.0,Daviplata,Bogotá D.C.
+2025-02-07 08:57:34.190246,636056,Aguapanela con Queso,Bebidas,3400.0,1,3400.0,Efectivo,Bogotá D.C.
+2025-02-07 08:59:41.961837,839235,Torta de Café,Postres,5900.0,3,17700.0,Daviplata,Bogotá D.C.
+2025-02-07 09:25:18.187258,517656,Granizado de Café,Café Frío,7700.0,3,23100.0,Efectivo,Boyacá
+2025-02-07 12:36:41.706484,238842,Torta de Café,Postres,6000.0,1,6000.0,Nequi,Santander
+2025-02-07 13:06:32.627571,540165,Malteada de Café,Café Frío,7500.0,1,7500.0,Tarjeta Débito,Cundinamarca
+2025-02-07 13:16:25.105058,601619,Pastel de Pollo,Panadería,4800.0,1,4800.0,Nequi,Cundinamarca
+2025-02-07 13:16:43.713871,509116,Malteada de Café,Café Frío,8500.0,1,8500.0,Efectivo,Bogotá D.C.
+2025-02-07 13:23:09.569364,148971,Calentado Paisa,Desayunos,13100.0,2,26200.0,Tarjeta Crédito,Cundinamarca
+2025-02-07 13:27:48.115815,181145,Malteada de Café,Café Frío,9400.0,1,9400.0,Efectivo,Tolima
+2025-02-07 13:29:14.802196,175711,Milo Frío,Bebidas,5500.0,3,16500.0,Daviplata,Bogotá D.C.
+2025-02-07 13:34:22.431734,273559,Chocolate Santafereño,Bebidas,5400.0,1,5400.0,Tarjeta Débito,Bogotá D.C.
+2025-02-07 13:35:32.002662,554942,Croissant de Mantequilla,Panadería,3900.0,2,7800.0,Tarjeta Crédito,Cundinamarca
+2025-02-07 13:45:14.524191,887003,Tinto Tradicional,Café Caliente,3200.0,2,6400.0,Efectivo,Santander
+2025-02-07 17:01:18.229057,264378,Torta de Café,Postres,7400.0,4,29600.0,Efectivo,Bogotá D.C.
+2025-02-07 17:11:28.503366,701766,Flan de Caramelo,Postres,6500.0,1,6500.0,Tarjeta Crédito,Cundinamarca
+2025-02-07 17:11:29.261252,107885,Changua Bogotana,Desayunos,8000.0,1,8000.0,Tarjeta Débito,Bogotá D.C.
+2025-02-07 17:12:19.623044,986178,Cheesecake de Café,Postres,8900.0,5,44500.0,Daviplata,Bogotá D.C.
+2025-02-07 17:23:49.509137,145985,Café Helado,Café Frío,6600.0,1,6600.0,Tarjeta Débito,Bogotá D.C.
+2025-02-07 17:24:02.958010,451047,Brownie con Helado,Postres,5100.0,4,20400.0,Tarjeta Crédito,Cundinamarca
+2025-02-07 17:25:37.914244,740832,Latte Helado,Café Frío,7200.0,1,7200.0,Tarjeta Débito,Meta
+2025-02-07 17:35:38.288857,934274,Café Helado,Café Frío,6600.0,1,6600.0,Efectivo,Boyacá
+2025-02-07 17:41:51.772154,432312,Pan de Chocolate,Panadería,3700.0,3,11100.0,Efectivo,Bogotá D.C.
+2025-02-07 17:46:10.405953,547999,Cheesecake de Café,Postres,7700.0,3,23100.0,Efectivo,Valle del Cauca
+2025-02-07 17:49:54.615869,965936,Tamal Tolimense,Desayunos,10000.0,4,40000.0,Efectivo,Tolima
+2025-02-07 18:26:32.303398,169362,Tamal Tolimense,Desayunos,9700.0,1,9700.0,Nequi,Bogotá D.C.
+2025-02-08 08:00:53.564623,975580,Croissant de Mantequilla,Panadería,4100.0,4,16400.0,Tarjeta Crédito,Valle del Cauca
+2025-02-08 08:11:11.198327,447186,Almojábana Tradicional,Panadería,3100.0,1,3100.0,Efectivo,Valle del Cauca
+2025-02-08 08:15:10.231745,596822,Café Origen Quindío,Café Caliente,4300.0,1,4300.0,Tarjeta Crédito,Santander
+2025-02-08 08:19:34.924131,888380,Croissant de Mantequilla,Panadería,4300.0,4,17200.0,Tarjeta Débito,Cundinamarca
+2025-02-08 08:21:58.475878,705787,Pastel de Pollo,Panadería,4600.0,2,9200.0,Tarjeta Débito,Bogotá D.C.
+2025-02-08 08:22:05.447019,953415,Torta de Café,Postres,7200.0,2,14400.0,Efectivo,Antioquia
+2025-02-08 08:31:58.041060,639420,Café Origen Quindío,Café Caliente,5400.0,1,5400.0,Daviplata,Santander
+2025-02-08 08:36:16.865535,593156,Almojábana Tradicional,Panadería,3200.0,2,6400.0,Tarjeta Débito,Cundinamarca
+2025-02-08 08:39:25.581446,911885,Pastel de Pollo,Panadería,4300.0,3,12900.0,Tarjeta Crédito,Bogotá D.C.
+2025-02-08 08:39:56.337387,310126,Espresso Doble,Café Caliente,3800.0,4,15200.0,Tarjeta Débito,Bogotá D.C.
+2025-02-08 08:51:00.740839,546943,Huevos Pericos,Desayunos,8900.0,1,8900.0,Efectivo,Santander
+2025-02-08 08:52:00.380625,854306,Chocolate Santafereño,Bebidas,4800.0,1,4800.0,Efectivo,Antioquia
+2025-02-08 08:55:02.699859,639011,Aguapanela con Queso,Bebidas,2600.0,4,10400.0,Efectivo,Bogotá D.C.
+2025-02-08 12:52:04.167440,267093,Aguapanela con Queso,Bebidas,3400.0,1,3400.0,Efectivo,Bogotá D.C.
+2025-02-08 12:55:05.045008,212370,Tres Leches Tradicional,Postres,6400.0,1,6400.0,Efectivo,Boyacá
+2025-02-08 13:08:57.382756,869958,Almojábana Tradicional,Panadería,3300.0,1,3300.0,Nequi,Cundinamarca
+2025-02-08 13:11:46.238682,242414,Cold Brew Clásico,Café Frío,7400.0,1,7400.0,Tarjeta Crédito,Tolima
+2025-02-08 13:30:39.700387,818654,Flan de Caramelo,Postres,6500.0,3,19500.0,Daviplata,Bogotá D.C.
+2025-02-08 13:41:05.430091,586317,Aromática de Frutas,Bebidas,4200.0,3,12600.0,Nequi,Tolima
+2025-02-08 13:42:49.329433,744885,Croissant de Mantequilla,Panadería,4100.0,2,8200.0,Tarjeta Crédito,Bogotá D.C.
+2025-02-08 13:43:19.352524,742321,Capuchino Especial,Café Caliente,6200.0,1,6200.0,Nequi,Bogotá D.C.
+2025-02-08 13:45:16.358511,2314,Tres Leches Tradicional,Postres,7200.0,1,7200.0,Nequi,Meta
+2025-02-08 13:58:23.845328,622242,Torta de Café,Postres,7400.0,4,29600.0,Tarjeta Débito,Valle del Cauca
+2025-02-08 14:58:06.944851,25481,Huevos Pericos,Desayunos,10000.0,3,30000.0,Tarjeta Crédito,Antioquia
+2025-02-08 16:33:18.593173,301703,Té Chai,Bebidas,4700.0,1,4700.0,Tarjeta Crédito,Meta
+2025-02-08 17:00:06.329118,470073,Tamal Tolimense,Desayunos,11800.0,3,35400.0,Efectivo,Bogotá D.C.
+2025-02-08 17:03:23.195704,876600,Café Campesino,Café Caliente,2400.0,2,4800.0,Tarjeta Débito,Valle del Cauca
+2025-02-08 17:11:55.907651,407308,Pan de Yuca,Panadería,2500.0,2,5000.0,Tarjeta Crédito,Bogotá D.C.
+2025-02-08 17:12:22.645198,328201,Croissant de Mantequilla,Panadería,3800.0,1,3800.0,Efectivo,Meta
+2025-02-08 17:17:28.358208,672765,Aguapanela con Queso,Bebidas,2900.0,4,11600.0,Efectivo,Cundinamarca
+2025-02-08 17:17:40.056047,134669,Aromática de Frutas,Bebidas,4900.0,2,9800.0,Efectivo,Valle del Cauca
+2025-02-08 17:21:19.566311,784502,Té Chai,Bebidas,4900.0,2,9800.0,Tarjeta Crédito,Antioquia
+2025-02-08 17:22:11.346210,857989,Croissant de Mantequilla,Panadería,4200.0,1,4200.0,Efectivo,Bogotá D.C.
+2025-02-08 17:22:37.502389,718570,Cheesecake de Café,Postres,8400.0,1,8400.0,Tarjeta Crédito,Bogotá D.C.
+2025-02-08 17:27:21.323089,451848,Macchiato,Café Caliente,6000.0,2,12000.0,Efectivo,Valle del Cauca
+2025-02-08 17:38:23.917108,904646,Pastel de Pollo,Panadería,4500.0,1,4500.0,Efectivo,Valle del Cauca
+2025-02-08 18:33:55.671261,229247,Calentado Paisa,Desayunos,12800.0,1,12800.0,Efectivo,Bogotá D.C.
